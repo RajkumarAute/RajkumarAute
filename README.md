@@ -4,8 +4,6 @@
 - 💞️ I'd want to work with you on DevOps and cloud infrastructure.
 - 📫 How can I be reached? rajsaute@gmail.com
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <!---
 RajkumarAute/RajkumarAute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
