@@ -1,4 +1,4 @@
-![](./image/call.jpg) [9945571886](https://wa.me/+919945571886) ~ 📫 [RajSAute@gmail.com](rajsaute@gmail.com) ~ ![](image/location.jpg)  India \
+![](./image/call.jpg) {%[9945571886](https://wa.me/+919945571886)%} ~ ![](./image/gmail.jpg) [RajSAute@gmail.com](rajsaute@gmail.com) ~ ![](image/location.jpg)  India \
 ![](./image/www.jpg) [Rajkumar-Aute.tk](http://rajkumar-aute.tk) ~ ![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/) ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute) ~ ![](./image/blog.jpg)/[RajkumarAute](https://rajkumaraute.blogspot.com/)  
 
 
@@ -6,11 +6,9 @@
 
 
 ## Skills
- **DevOps Tools** ⦁	Git • Jenkins • Terraform • Docker • Kubernetes • Server monitoring
- \
- **AWS (Amazon Web Services)**  • EC2 • ECS • EKS • Auto Scaling • ELB • CloudFront • Elastic Cache • Route53 • Certificate Manager • Workspaces, • S3 Static Website hosting
-\
-**Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • CPanel • Plesk • SSL • Public DNS  ⦁	Network devices • Firewalls and ADDC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Cloud Computing
+* **DevOps Tools** ⦁	Git • Jenkins • Terraform • Docker • Kubernetes • Server monitoring
+* **AWS (Amazon Web Services)**  • EC2 • ECS • EKS • Auto Scaling • ELB • CloudFront • Elastic Cache • Route53 • Certificate Manager • Workspaces, • S3 Static Website hosting
+* **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • CPanel • Plesk • SSL • Public DNS  ⦁	Network devices • Firewalls and ADDC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Cloud Computing
 
 
 ## Experience
@@ -77,3 +75,7 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 #### Honors & Awards
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
+
+#### Personal Projects
+* [Docker installation script for CentOS7](https://rajkumar-aute.github.io/docker_installation_script/)
+* 
