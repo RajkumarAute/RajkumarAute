@@ -1,5 +1,5 @@
 ![](./image/call.jpg) [9945571886](https://wa.me/+919945571886) ~ 📫 [RajSAute@gmail.com](rajsaute@gmail.com) ~ ![](image/location.jpg)  India \
-[Resume/website](https://rajkumar-aute.github.io/Rajkumar-Aute/) ~ ![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/) ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute)  
+[rajkumar-aute.tk](http://rajkumar-aute.tk) ~ ![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/) ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute)  
 
 
 **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking,_ with 9+ years of experience in the IT field.
