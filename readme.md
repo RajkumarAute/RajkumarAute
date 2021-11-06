@@ -64,13 +64,13 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 
 ## Education
-![](./image/gug.jpg) **Post Graduation Diploma in Computer Application** _Gulbarga University_ with 62.16% in 2016
+![](./image/gug.jpg) **Post Graduation Diploma in Computer Application** _[Gulbarga University](http://gug.ac.in/)_ with 62.16% in 2016
 
-![](./image/gug.jpg) **Bachelor of Commerce - BCom** _Gulbarga University_ with 69.84% in 2013
+![](./image/gug.jpg) **Bachelor of Commerce - BCom** _[Gulbarga University](http://gug.ac.in/)_ with 69.84% in 2013
 
-![](./image/kar.jpg) **Karnataka PUE Board Bangalore 10+2** with 49% in 2009
+![](./image/kar.jpg) **[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/) 10+2** with 49% in 2009
 
-![](./image/kar.jpg) **Karnataka Sec Edu Board 10th / SSLC** with 47.84% in 2005
+![](./image/kar.jpg) **[Karnataka Sec Edu Board](http://kseeb.kar.nic.in/) 10th / SSLC** with 47.84% in 2005
 
 
 #### Honors & Awards
