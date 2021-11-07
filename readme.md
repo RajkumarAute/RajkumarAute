@@ -1,4 +1,4 @@
-![](./image/call.jpg) <!--- [9945571886](https://wa.me/+919945571886) --> ~ ![](./image/gmail.jpg) [RajSAute@gmail.com](rajsaute@gmail.com) ~ ![](image/location.jpg)  India \
+![](./image/call.jpg) [9945571886](https://wa.me/+919945571886) ~ ![](./image/gmail.jpg) [RajSAute@gmail.com](rajsaute@gmail.com) ~ ![](image/location.jpg) India \
 ![](./image/www.jpg) [Rajkumar-Aute.tk](http://rajkumar-aute.tk) ~ ![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/) ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute) ~ ![](./image/blog.jpg)/[RajkumarAute](https://rajkumaraute.blogspot.com/)  
 
 
@@ -64,9 +64,9 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 
 ## Education
-![](./image/gug.jpg) **Post Graduation Diploma in Computer Application** _[Gulbarga University](http://gug.ac.in/)_ with 62.16% in 2016
+![](./image/gug.jpg) **Post Graduation Diploma in Computer Application** _[Gulbarga University](http://www.gug.ac.in/)_ with 62.16% in 2016
 
-![](./image/gug.jpg) **Bachelor of Commerce - BCom** _[Gulbarga University](http://gug.ac.in/)_ with 69.84% in 2013
+![](./image/gug.jpg) **Bachelor of Commerce - BCom** _[Gulbarga University](http://www.gug.ac.in/)_ with 69.84% in 2013
 
 ![](./image/kar.jpg) **[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/) 10+2** with 49% in 2009
 
@@ -77,5 +77,10 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
 
 #### Personal Projects
-* [Docker installation script for CentOS7](https://rajkumar-aute.github.io/docker_installation_script/)
-* 
+* [Docker installation script for CentOS7](https://rajkumar-aute.github.io/docker_install-centos7/)
+
+
+
+
+
+<!--- commit -->
