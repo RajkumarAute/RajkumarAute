@@ -1,4 +1,4 @@
-![](./image/call.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajSAute@gmail.com](rajsaute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) India \
+![](./image/call.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [Email:RajSAute@gmail.com](rajsaute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) India \
 ![](./image/www.jpg) [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ ![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ ![](./image/blog.jpg)/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
 
