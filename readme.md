@@ -77,7 +77,7 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
 
 #### Personal Projects
-* [Docker installation script for CentOS7](https://rajkumar-aute.github.io/docker_install-centos7/)
+* [Docker installation script for CentOS7](https://rajkumar-aute.github.io/docker_install-centos7/){:target="_blank"}
 
 
 
