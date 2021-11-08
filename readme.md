@@ -51,7 +51,7 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 * Maintained Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
 * Managed Servers, Workstations, Routers, Switches, and existing network applications.
 
-
+<font size="6"> 
 ## Certifications
 ![](./image/aws.jpg) [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ Oct 2019 - Oct 2022
 
@@ -61,7 +61,7 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 ![](./image/oracle.jpg) [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"} ~ Apr 2020 - Oct 2021
 
-
+</font>
 
 ## Education
 ![](./image/gug.jpg) **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016
