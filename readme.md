@@ -26,7 +26,7 @@
 * Contributed to Hosting and migration of websites and applications on Linux and Virtual web hosting services.
 * Supported 15+ Citrix XenServer Host machines with 80+ VMs, and Cloud migration.
 
-> ### ![](./image/lera.jpg){:target="_blank"} [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
+> ### ![](./image/lera.jpg) [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020.
 * Git, Docker, Terraform, Kubernetes, and CI/CD DevOps tools were used for automation. 
 * Designed and build the AWS Cloud infrastructure. and handled L2 production concerns.
@@ -51,7 +51,7 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 * Maintained Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
 * Managed Servers, Workstations, Routers, Switches, and existing network applications.
 
-<font size="6">  </font>
+
 ## Certifications
 ![](./image/aws.jpg) [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ Oct 2019 - Oct 2022
 
@@ -96,5 +96,5 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 * [Docker engine installation on any Linux Flavor](https://rajkumar-aute.github.io/docker-linux/){:target="_blank"}
 
 
-
+<font size="6">  </font>
 <!--- commit -->
