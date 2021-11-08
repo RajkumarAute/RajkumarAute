@@ -85,7 +85,7 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 * [Kubernetes scripts and notes](https://rajkumar-aute.github.io/kubernetes/){:target="_blank"}
 
-* [Terraform Scripts for jenkins server setup on AWS](https://github.com/Rajkumar-Aute/terraform-jenkins/){:target="_blank"}
+* [Terraform Scripts for jenkins server setup on AWS](https://rajkumar-aute.github.io/terraform-jenkins/){:target="_blank"}
 
 * [Terraform scripts for Ansible Master setup](https://rajkumar-aute.github.io/terraform-ansible/){:target="_blank"}
 
