@@ -2,11 +2,11 @@
 ![](./image/www.jpg) [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ ![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ ![](./image/blog.jpg)/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
 
-**DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking,_ with 9+ years of experience in the IT field.
+> **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking,_ with 9+ years of experience in the IT field.
 
 
 ## Skills
-* **DevOps Tools** ⦁	Git • Jenkins • Terraform • Docker • Kubernetes • Server monitoring
+> * **DevOps Tools** ⦁	Git • Jenkins • Terraform • Docker • Kubernetes • Server monitoring
 * **AWS (Amazon Web Services)**  • EC2 • ECS • EKS • Auto Scaling • ELB • CloudFront • Elastic Cache • Route53 • Certificate Manager • Workspaces, • S3 Static Website hosting
 * **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • CPanel • Plesk • SSL • Public DNS  ⦁	Network devices • Firewalls and ADDC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Micrisoft Azure Cloud Computing
 
