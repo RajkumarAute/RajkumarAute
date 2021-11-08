@@ -8,7 +8,7 @@
 ## Skills
 * **DevOps Tools** ⦁	Git • Jenkins • Terraform • Docker • Kubernetes • Server monitoring
 * **AWS (Amazon Web Services)**  • EC2 • ECS • EKS • Auto Scaling • ELB • CloudFront • Elastic Cache • Route53 • Certificate Manager • Workspaces, • S3 Static Website hosting
-* **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • CPanel • Plesk • SSL • Public DNS  ⦁	Network devices • Firewalls and ADDC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Cloud Computing
+* **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • CPanel • Plesk • SSL • Public DNS  ⦁	Network devices • Firewalls and ADDC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Micrisoft Azure Cloud Computing
 
 
 ## Experience
@@ -40,7 +40,7 @@
 
 > ### ![](./image/3i.jpg) [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
 | _System Engineer | **AWS, Linux, Windows.**_ | Mar 2015 - Jul 2018.
-* Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
+Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Managed Linux servers for Web, Apps, and DB servers on AWS Cloud infrastructure. 
 * Managed AD Users & Groups, Group Policies, and Shared Files. 
 * Maintained Enterprise Network Printers on Windows Server.
@@ -70,14 +70,34 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 ![](./image/kar.jpg) **[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/){:target="_blank"} 10+2** with 49% in 2009
 
-![](./image/kar.jpg) **[Karnataka Sec Edu Board](http://kseeb.kar.nic.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
+![](./image/kar.jpg) **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
 
 
 #### Honors & Awards
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
 
 #### Personal Projects
+* [Terraform scripts and notes](https://rajkumar-aute.github.io/terraform/){:target="_blank"}
+
+* [Terraform scripts for Kubernetes Master and node infra setup on AWS](https://rajkumar-aute.github.io/terraform-kubernetes/){:target="_blank"}
+
+* [Kubernetes scripts and notes](https://rajkumar-aute.github.io/kubernetes/){:target="_blank"}
+
+
+* [Terraform Scripts for jenkins server setup on AWS](https://github.com/Rajkumar-Aute/terraform-jenkins/){:target="_blank"}
+
+
+* [Terraform scripts for Ansible Master setup](https://rajkumar-aute.github.io/terraform-ansible/){:target="_blank"}
+
+* [Ansible scripts and notes](https://rajkumar-aute.github.io/ansible/){:target="_blank"}
+
+
 * [Docker installation script for CentOS7](https://rajkumar-aute.github.io/docker_install-centos7/){:target="_blank"}
+
+* [Docker engine installation on any Linux Flavor](https://rajkumar-aute.github.io/docker-linux/){:target="_blank"}
+
+
+
 
 
 
