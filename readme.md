@@ -1,4 +1,4 @@
-![](./image/call.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajSAute@gmail.com](Email:rajsaute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) India \
+![](./image/call.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajSAute@gmail.com](rajsaute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) India \
 ![](./image/www.jpg) [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ ![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ ![](./image/blog.jpg)/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
 
@@ -76,6 +76,8 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 #### Honors & Awards
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
 
+<div style="page-break-before:always"></div>
+
 #### Personal Projects
 * [Terraform scripts and notes](https://rajkumar-aute.github.io/terraform/){:target="_blank"}
 
@@ -83,23 +85,15 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 * [Kubernetes scripts and notes](https://rajkumar-aute.github.io/kubernetes/){:target="_blank"}
 
-
 * [Terraform Scripts for jenkins server setup on AWS](https://github.com/Rajkumar-Aute/terraform-jenkins/){:target="_blank"}
-
 
 * [Terraform scripts for Ansible Master setup](https://rajkumar-aute.github.io/terraform-ansible/){:target="_blank"}
 
 * [Ansible scripts and notes](https://rajkumar-aute.github.io/ansible/){:target="_blank"}
 
-
 * [Docker installation script for CentOS7](https://rajkumar-aute.github.io/docker_install-centos7/){:target="_blank"}
 
 * [Docker engine installation on any Linux Flavor](https://rajkumar-aute.github.io/docker-linux/){:target="_blank"}
-
-
-
-
-
 
 
 
