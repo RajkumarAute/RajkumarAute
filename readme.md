@@ -2,7 +2,7 @@
 ![](./image/www.jpg) [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ ![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ ![](./image/blog.jpg)/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
 
-> **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking,_ with 9+ years of experience in the IT field.
+> **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking._ with 9+ years of experience in the IT field.
 
 
 ## Skills
@@ -13,10 +13,10 @@
 
 ## Experience
 > ### ![](./image/tcs.jpg) [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
-| _IT Analyst_ | _**DevOps, AWS Cloud Architect.**_ | Dec 2020 - Present.
-* Using Git and Terraform to automate the creation of cloud infrastructure.
-* Design and implementation of AWS services across multiple accounts.   
-* Handling L2 production issues on AWS cloud infrastructure.
+| _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
+* Using Git and Terraform to automate the creation of cloud infrastructure
+* Design and implementation of AWS services across multiple accounts.
+* Addressing L2 production issues on AWS cloud infrastructure.
 
 > ### ![](./image/devdigital.jpg) [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
@@ -40,13 +40,15 @@
 
 > ### ![](./image/3i.jpg) [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
 | _System Engineer | **AWS, Linux, Windows.**_ | Mar 2015 - Jul 2018.
+\
 Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Managed Linux servers for Web, Apps, and DB servers on AWS Cloud infrastructure. 
 * Managed AD Users & Groups, Group Policies, and Shared Files. 
 * Maintained Enterprise Network Printers on Windows Server.
 
 > ### ![](./image/kaizen.jpg) [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & ![](./image/infoservice.jpg) [Info Services](http://ibmesp.com){:target="_blank"}
-| _Customer Support Engineer | **Windows and Network - Admin.**_ | Mar 2012 - Mar 2015 \
+| _Customer Support Engineer | **Windows and Network - Admin.**_ | Mar 2012 - Mar 2015
+\
 Client: MAFIL, Airtel, Idea, and Vodafone.
 * Maintained Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
 * Managed Servers, Workstations, Routers, Switches, and existing network applications.
