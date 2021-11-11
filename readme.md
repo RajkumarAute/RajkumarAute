@@ -15,7 +15,7 @@ Aute@gmail.com](rajsaute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) 
 ## Experience
 > ### ![](./image/tcs.jpg) [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
-* Using Git and Terraform to automate the creation of cloud infra
+* Using Git and Terraform to automate the creation of cloud infra.
 * Design and implementation of AWS services across multiple accounts.
 * Addressing L2 production issues on AWS cloud infra.
 * Launched and maintaining AWS Workspace and bundles.
@@ -33,6 +33,7 @@ Aute@gmail.com](rajsaute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) 
 * Kubernetes and Docker have been used to build micro services and Terraform has been used to build cloud infra.
 * Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the application and services.
 * Designed and built the AWS Cloud infrastructure for Production, as well as taking care of L2 production issues.
+* Transformed the process of application deployment process using DevOps various tools.
 * Supported 6+ Citrix XenServer host machines with 40+ VMs, Office 365, and JD Edwards ERP As CNC Admin.
 
 > ### ![](./image/wla.jpg) [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ~ Hyderabad 
