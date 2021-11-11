@@ -1,4 +1,5 @@
-![](./image/call.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajSAute@gmail.com](rajsaute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) [India](https://en.wikipedia.org/wiki/India){:target="_blank"} \
+![](./image/call.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajS
+Aute@gmail.com](rajsaute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) [India](https://en.wikipedia.org/wiki/India){:target="_blank"} \
 ![](./image/www.jpg) [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ ![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ ![](./image/blog.jpg)/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
 
@@ -6,7 +7,7 @@
 
 
 ## Skills
-> * **DevOps Tools** ⦁	Git • Jenkins • Terraform • Docker • Kubernetes • Server monitoring
+> * **DevOps Tools** • Kubernetes • Terraform ⦁	Git • Jenkins • Docker • Server monitoring
 * **AWS (Amazon Web Services)**  • EC2 • ECS • EKS • Auto Scaling • ELB • CloudFront • Elastic Cache • Route53 • Certificate Manager • Workspaces, • S3 Static Website hosting
 * **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • CPanel • Plesk • SSL • Public DNS  ⦁	Network devices • Firewalls and ADDC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Micrisoft Azure Cloud Computing
 
@@ -14,29 +15,32 @@
 ## Experience
 > ### ![](./image/tcs.jpg) [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
-* Using Git and Terraform to automate the creation of cloud infrastructure
+* Using Git and Terraform to automate the creation of cloud infra
 * Design and implementation of AWS services across multiple accounts.
-* Addressing L2 production issues on AWS cloud infrastructure.
+* Addressing L2 production issues on AWS cloud infra.
+* Launched and maintaining AWS Workspace and bundles.
 
 > ### ![](./image/devdigital.jpg) [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
-* Built and automated the process using Terraform, Kubernetes, CI/CD, Jenkins, and Docker. 
-* Designed and built the AWS multi-tier infrastructure and services.
-* Addressed L3 production issues on AWS infrastructure as well as L1 on Azure infrastructure. 
+* ECS, EKS, k8s, and Docker used to build containerized infra and Terraform used to build AWS infra.
+* Built and automated the process using CI/CD, Git, and Jenkins.
+* Designed and built the AWS three-tier infra and services.
+* Addressed L3 production issues on AWS infra as well as L1 on Azure infrastructure. 
 * Contributed to Hosting and migration of websites and applications on Linux and Virtual web hosting services.
-* Supported 15+ Citrix XenServer Host machines with 80+ VMs, and Cloud migration.
 
 > ### ![](./image/lera.jpg) [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020.
-* Git, Docker, Terraform, Kubernetes, and CI/CD DevOps tools were used for automation. 
-* Designed and build the AWS Cloud infrastructure. and handled L2 production concerns.
+* Kubernetes and Docker have been used to build micro services and Terraform has been used to build cloud infra.
+* Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the application and services.
+* Designed and built the AWS Cloud infrastructure for Production, as well as taking care of L2 production issues.
 * Supported 6+ Citrix XenServer host machines with 40+ VMs, Office 365, and JD Edwards ERP As CNC Admin.
 
 > ### ![](./image/wla.jpg) [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ~ Hyderabad 
 | _Executive IT | **AWS & Linux**_ | Aug 2018 - Aug 2019
-* Accomplished multiple AWS Cloud Services, Git, etc.,
-* Achieved 98% service uptime on Linux & DB servers on AWS Cloud and VMWare ESXi.
-* Supported on FortiGate 100E Firewall and Multiple Network devices.
+* Accomplished multiple AWS Cloud Services, such as EC2, RDS, S3,
+* Achieved 98% service uptime for Billing application and Website on Linux & DB servers on AWS Cloud and VMWare ESXi.
+* Handled the on-premises infra to Cloud migration project.
+* Implemented DevOps tools to improve application deployment. such as Git, and Jenkins.
 
 > ### ![](./image/3i.jpg) [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
 | _System Engineer | **AWS, Linux, Windows.**_ | Mar 2015 - Jul 2018.
@@ -81,21 +85,21 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 <div style="page-break-before:always"></div>
 
 #### Personal Projects
-* [Terraform scripts and notes](https://rajkumar-aute.github.io/terraform/){:target="_blank"}
+* [Terraform scripts and notes.](https://rajkumar-aute.github.io/terraform/){:target="_blank"}
 
-* [Terraform scripts for Kubernetes Master and node infra setup on AWS](https://rajkumar-aute.github.io/terraform-kubernetes/){:target="_blank"}
+* [Terraform scripts for Kubernetes Master and node infra setup on AWS.](https://rajkumar-aute.github.io/terraform-kubernetes/){:target="_blank"}
 
-* [Kubernetes scripts and notes](https://rajkumar-aute.github.io/kubernetes/){:target="_blank"}
+* [Kubernetes scripts and notes.](https://rajkumar-aute.github.io/kubernetes/){:target="_blank"}
 
-* [Terraform Scripts for jenkins server setup on AWS](https://rajkumar-aute.github.io/terraform-jenkins/){:target="_blank"}
+* [Terraform Scripts for jenkins server setup on AWS.](https://rajkumar-aute.github.io/terraform-jenkins/){:target="_blank"}
 
-* [Terraform scripts for Ansible Master setup](https://rajkumar-aute.github.io/terraform-ansible/){:target="_blank"}
+* [Terraform scripts for Ansible Master setup.](https://rajkumar-aute.github.io/terraform-ansible/){:target="_blank"}
 
-* [Ansible scripts and notes](https://rajkumar-aute.github.io/ansible/){:target="_blank"}
+* [Ansible scripts and notes.](https://rajkumar-aute.github.io/ansible/){:target="_blank"}
 
-* [Docker installation script for CentOS7](https://rajkumar-aute.github.io/docker_install-centos7/){:target="_blank"}
+* [Docker installation script for CentOS7.](https://rajkumar-aute.github.io/docker_install-centos7/){:target="_blank"}
 
-* [Docker engine installation on any Linux Flavor](https://rajkumar-aute.github.io/docker-linux/){:target="_blank"}
+* [Docker engine installation on any Linux Flavor.](https://rajkumar-aute.github.io/docker-linux/){:target="_blank"}
 
 
 <font size="6">  </font>
