@@ -9,7 +9,7 @@ Aute@gmail.com](rajsaute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) 
 ## Skills
 > * **DevOps Tools** • Kubernetes • Terraform ⦁	Git • Jenkins • Docker • Server monitoring
 * **AWS (Amazon Web Services)**  • EC2 • ECS • EKS • Auto Scaling • ELB • CloudFront • Elastic Cache • Route53 • Certificate Manager • Workspaces, • S3 Static Website hosting
-* **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • CPanel • Plesk • SSL • Public DNS  ⦁	Network devices • Firewalls and ADDC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Micrisoft Azure Cloud Computing
+* **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • CPanel • Plesk • SSL • Public DNS ⦁	Network devices • Firewalls and ADDC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Micrisoft Azure Cloud Computing
 
 
 ## Experience
@@ -86,21 +86,28 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 <div style="page-break-before:always"></div>
 
 #### Personal Projects
+###### Terraform
 * [Terraform scripts and notes.](https://rajkumar-aute.github.io/terraform/){:target="_blank"}
 
+##### Kubernetes
 * [Terraform scripts for Kubernetes Master and node infra setup on AWS.](https://rajkumar-aute.github.io/terraform-kubernetes/){:target="_blank"}
 
 * [Kubernetes scripts and notes.](https://rajkumar-aute.github.io/kubernetes/){:target="_blank"}
 
+##### Jenkins
 * [Terraform Scripts for jenkins server setup on AWS.](https://rajkumar-aute.github.io/terraform-jenkins/){:target="_blank"}
 
+##### Ansible
 * [Terraform scripts for Ansible Master setup.](https://rajkumar-aute.github.io/terraform-ansible/){:target="_blank"}
 
 * [Ansible scripts and notes.](https://rajkumar-aute.github.io/ansible/){:target="_blank"}
 
+##### Bash scripts
 * [Docker installation script for CentOS7.](https://rajkumar-aute.github.io/docker_install-centos7/){:target="_blank"}
 
 * [Docker engine installation on any Linux Flavor.](https://rajkumar-aute.github.io/docker-linux/){:target="_blank"}
+
+* [Tomcat 9 installtion script for Ubuntu](https://rajkumar-aute.github.io/tomcat9-ubuntu-script/){:target="_blank"}
 
 
 <font size="6">  </font>
