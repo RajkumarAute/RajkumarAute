@@ -27,8 +27,6 @@
 * Addressed L3 production issues on AWS infra as well as L1 on Azure infrastructure. 
 * Contributed to Hosting and migration of websites and applications on Linux and Virtual web hosting services.
 
-<div style="page-break-before:always"></div>
-
 > ### ![](./image/lera.jpg) [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020.
 * Kubernetes and Docker have been used to build micro services and Terraform has been used to build cloud infra.
