@@ -6,7 +6,7 @@
 
 
 ## Skills
-> * **DevOps Tools** • Kubernetes • Terraform ⦁	Git • Jenkins • Docker • Server monitoring
+> * **DevOps Tools** • Kubernetes • Terraform ⦁	Git • Jenkins • Docker • Ansible • Server monitoring
 * **AWS (Amazon Web Services)**  • EC2 • ECS • EKS • Auto Scaling • ELB • CloudFront • Elastic Cache • Route53 • Certificate Manager • Workspaces, • S3 Static Website hosting
 * **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • CPanel • Plesk • SSL • Public DNS ⦁	Network devices • Firewalls and ADDC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Micrisoft Azure Cloud Computing
 
@@ -21,7 +21,7 @@
 
 > ### ![](./image/devdigital.jpg) [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
-* ECS, EKS, k8s, and Docker used to build containerized infra and Terraform used to build AWS infra.
+* Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
 * Built and automated the process using CI/CD, Git, and Jenkins.
 * Designed and built the AWS three-tier infra and services.
 * Addressed L3 production issues on AWS infra as well as L1 on Azure infrastructure. 
@@ -57,6 +57,7 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 * Maintained Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
 * Managed Servers, Workstations, Routers, Switches, and existing network applications.
 
+<div style="page-break-before:always"></div>
 
 ## Certifications
 ![](./image/aws.jpg) [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ Oct 2019 - Oct 2022
@@ -94,7 +95,7 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 * [Kubernetes scripts and notes.](https://rajkumar-aute.github.io/kubernetes/){:target="_blank"}
 
 ##### Jenkins
-* [Terraform Scripts for jenkins server setup on AWS.](https://rajkumar-aute.github.io/terraform-jenkins/){:target="_blank"}
+* [Terraform Scripts for Jenkins server setup on AWS.](https://rajkumar-aute.github.io/terraform-jenkins/){:target="_blank"}
 
 ##### Ansible
 * [Terraform scripts for Ansible Master setup.](https://rajkumar-aute.github.io/terraform-ansible/){:target="_blank"}
