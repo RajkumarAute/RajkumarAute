@@ -1,4 +1,4 @@
-_**Latest resume**_ --> ![](./image/www.jpg) [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ![](./image/github.jpg) [Rajkumar-Aute.tk](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"} 
+_**Latest resume**_ --> ![](./image/github.jpg) [RajkumarAute](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"} ~ ![](./image/www.jpg) [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"}
 \
 ![](./image/call.png) ![](./image/whatsapp.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) [India](https://en.wikipedia.org/wiki/India){:target="_blank"}
 \
