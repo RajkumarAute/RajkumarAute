@@ -6,7 +6,7 @@
 \
 <img width="" height="15" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ 
 <img width="" height="15" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ 
-<img width="" height="15" src="./image/github.jpg">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ 
+<img width="" height="15" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ 
 <img width="" height="15" src="./image/blog.png">/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
 
