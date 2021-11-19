@@ -46,7 +46,7 @@
 * Implemented DevOps tools to improve application deployment. such as Git, and Jenkins.
 
 > ### ![](./image/3i.jpg) [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
-| _System Engineer | **AWS, Linux, Windows.**_ | Mar 2015 - Jul 2018.
+| _System Engineer | **AWS, Linux, Windows.**_ | Mar 2015 - Jul 2018.(Rejoined)
 \
 Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Managed Linux servers for Web, Apps, and DB servers on AWS Cloud infrastructure. 
