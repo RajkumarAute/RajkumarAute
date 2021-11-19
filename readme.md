@@ -1,5 +1,3 @@
-<img width="" height="20" src="https://www.tcs.com/content/dam/tcs/images/Newtcslogo/logo-white1x.png"> 
-
 [&uarr;&uarr;_**<font size="1"> click hear or on my name for my latest résumé. </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}
 \
 ![](./image/call.png) ![](./image/whatsapp.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) [India](https://en.wikipedia.org/wiki/India){:target="_blank"}
@@ -17,7 +15,7 @@
 
 
 ## Experience
-> ### ![](./image/tcs.jpg) [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
+> ###  <img width="" height="20" src="https://www.tcs.com/content/dam/tcs/images/Newtcslogo/logo-white1x.png">  ![](./image/tcs.jpg) [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
 * Using Git and Terraform to automate the creation of cloud infra.
 * Design and implementation of AWS services across multiple accounts.
