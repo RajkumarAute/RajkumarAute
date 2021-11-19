@@ -15,17 +15,14 @@
 
 
 ## Experience
-> ###  <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
+> ###  <img width="" height="20" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
 * Using Git and Terraform to automate the creation of cloud infra.
 * Design and implementation of AWS services across multiple accounts.
 * Addressing L2 production issues on AWS cloud infra.
 * Launched and maintaining AWS Workspace and bundles.
 
-
-
-
-> ### <img width="" height="18" src="https://www.devdigital.com/public/front/images/logo.png"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
+> ### <img height="20" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
 * Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
 * Built and automated the process using CI/CD, Git, and Jenkins.
@@ -33,7 +30,7 @@
 * Addressed L3 production issues on AWS infra as well as L1 on Azure infrastructure. 
 * Contributed to Hosting and migration of websites and applications on Linux and Virtual web hosting services.
 
-> ### ![](./image/lera.jpg) [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
+> ### <img height="20" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020.
 * Kubernetes and Docker have been used to build micro services and Terraform has been used to build cloud infra.
 * Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the application and services.
