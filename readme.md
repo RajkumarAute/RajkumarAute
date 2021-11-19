@@ -22,7 +22,7 @@
 * Addressing L2 production issues on AWS cloud infra.
 * Launched and maintaining AWS Workspace and bundles.
 
-> ### <img height="20" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
+> ### <img width="" height="20" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
 * Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
 * Built and automated the process using CI/CD, Git, and Jenkins.
@@ -30,7 +30,7 @@
 * Addressed L3 production issues on AWS infra as well as L1 on Azure infrastructure. 
 * Contributed to Hosting and migration of websites and applications on Linux and Virtual web hosting services.
 
-> ### <img height="20" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
+> ### <img width="" height="20" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020.
 * Kubernetes and Docker have been used to build micro services and Terraform has been used to build cloud infra.
 * Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the application and services.
@@ -38,14 +38,14 @@
 * Transformed the application deployment process using DevOps various tools.
 * Supported 6+ Citrix XenServer host machines with 40+ VMs, Office 365, and JD Edwards ERP As CNC Admin.
 
-> ### ![](./image/wla.jpg) [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ~ Hyderabad 
+> ### <img width="" height="20" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ~ Hyderabad 
 | _Executive IT | **AWS & Linux**_ | Aug 2018 - Aug 2019
 * Accomplished multiple AWS Cloud Services, such as EC2, RDS, S3,
 * Achieved 98% service uptime for Billing application and Website on Linux & DB servers on AWS Cloud and VMWare ESXi.
 * Handled the on-premises infra to Cloud migration project.
 * Implemented DevOps tools to improve application deployment. such as Git, and Jenkins.
 
-> ### ![](./image/3i.jpg) [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
+> ### <img width="" height="20" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
 | _System Engineer | **AWS, Linux, Windows.**_ | Mar 2015 - Jul 2018.(Rejoined)
 \
 Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
@@ -53,7 +53,7 @@ Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Managed AD Users & Groups, Group Policies, and Shared Files. 
 * Maintained Enterprise Network Printers on Windows Server.
 
-> ### ![](./image/kaizen.jpg) [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & ![](./image/infoservice.jpg) [Info Services](http://ibmesp.com){:target="_blank"}
+> ### <img width="" height="20" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
 | _Customer Support Engineer | **Windows and Network - Admin.**_ | Mar 2012 - Mar 2015
 \
 Client: MAFIL, Airtel, Idea, and Vodafone.
