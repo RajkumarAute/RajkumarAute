@@ -1,4 +1,7 @@
-&uarr;&uarr;   [_**<font size="1">for latest resume click on my name</font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"} &uarr;&uarr;
+&uarr;&uarr;   [_**<font size="1">&uarr;&uarr; for latest resume click on my name &uarr;&uarr; </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}
+
+[_**<font size="2">&uarr;&uarr; for latest resume click on my name &uarr;&uarr; </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}
+
 \
 ![](./image/call.png) ![](./image/whatsapp.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) [India](https://en.wikipedia.org/wiki/India){:target="_blank"}
 \
