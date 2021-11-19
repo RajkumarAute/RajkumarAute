@@ -1,13 +1,13 @@
 [&uarr;&uarr;_**<font size="1"> click hear or on my name for my latest résumé. </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}
 \
-<img width="" height="20" src="./image/call.png">  [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ 
-<img width="" height="20" src="./image/gmail.png"> [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~ 
-<img width="" height="20" src="./image/location.jpg"> [India](https://en.wikipedia.org/wiki/India){:target="_blank"}
+<img width="" height="15" src="./image/call.png">  [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ 
+<img width="" height="15" src="./image/gmail.png"> [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~ 
+<img width="" height="15" src="./image/location.jpg"> [India](https://en.wikipedia.org/wiki/India){:target="_blank"}
 \
-<img width="" height="20" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ 
-<img width="" height="20" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ 
-<img width="" height="20" src="./image/github.jpg">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ 
-<img width="" height="20" src="./image/blog.png">/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
+<img width="" height="15" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ 
+<img width="" height="15" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ 
+<img width="" height="15" src="./image/github.jpg">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ 
+<img width="" height="15" src="./image/blog.png">/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
 
 > **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking._ with 9+ years of experience in the IT field.
@@ -58,7 +58,7 @@ Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Managed AD Users & Groups, Group Policies, and Shared Files. 
 * Maintained Enterprise Network Printers on Windows Server.
 
-> ### <img width="" height="20" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
+> ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
 | _Customer Support Engineer | **Windows and Network - Admin.**_ | Mar 2012 - Mar 2015
 \
 Client: MAFIL, Airtel, Idea, and Vodafone.
@@ -68,24 +68,24 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 <div style="page-break-before:always"></div>
 
 ## Certifications
-<img width="" height="20" src="./image/aws.jpg"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ Oct 2019 - Oct 2022
+<img width="" height="15" src="./image/aws.jpg"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ Oct 2019 - Oct 2022
 
-<img width="" height="20" src="./image/azure.jpg"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"} ~ Jan 2021 - Jan 2023
+<img width="" height="15" src="./image/azure.jpg"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"} ~ Jan 2021 - Jan 2023
 
-<img width="" height="20" src="./image/redhat.png"> [**Red hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"} ~ Jul 2018 - Jul 2021
+<img width="" height="15" src="./image/redhat.png"> [**Red hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"} ~ Jul 2018 - Jul 2021
 
-<img width="" height="20" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"} ~ Apr 2020 - Oct 2021
+<img width="" height="15" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"} ~ Apr 2020 - Oct 2021
 
 
 
 ## Education
-<img width="" height="20" src="./image/gug.jpg"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016
+<img width="" height="15" src="./image/gug.jpg"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016
 
-<img width="" height="20" src="./image/gug.jpg"> **Bachelor of Commerce - BCom** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 69.84% in 2013
+<img width="" height="15" src="./image/gug.jpg"> **Bachelor of Commerce - BCom** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 69.84% in 2013
 
-<img width="" height="20" src="./image/kar.png"> **[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/){:target="_blank"} 10+2** with 49% in 2009
+<img width="" height="15" src="./image/kar.png"> **[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/){:target="_blank"} 10+2** with 49% in 2009
 
-<img width="" height="20" src="./image/kar.png"> **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
+<img width="" height="15" src="./image/kar.png"> **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
 
 
 #### Honors & Awards
