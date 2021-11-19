@@ -85,33 +85,3 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 #### Honors & Awards
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
-
-<div style="page-break-before:always"></div>
-
-#### Personal Projects
-##### Terraform
-* [Terraform scripts and notes.](https://rajkumar-aute.github.io/terraform/){:target="_blank"}
-
-##### Kubernetes
-* [Terraform scripts for Kubernetes Master and node infra setup on AWS.](https://rajkumar-aute.github.io/terraform-kubernetes/){:target="_blank"}
-
-* [Kubernetes scripts and notes.](https://rajkumar-aute.github.io/kubernetes/){:target="_blank"}
-
-##### Jenkins
-* [Terraform Scripts for Jenkins server setup on AWS.](https://rajkumar-aute.github.io/terraform-jenkins/){:target="_blank"}
-
-##### Ansible
-* [Terraform scripts for Ansible Master setup.](https://rajkumar-aute.github.io/terraform-ansible/){:target="_blank"}
-
-* [Ansible scripts and notes.](https://rajkumar-aute.github.io/ansible/){:target="_blank"}
-
-##### Bash scripts
-* [Docker installation script for CentOS7.](https://rajkumar-aute.github.io/docker_install-centos7/){:target="_blank"}
-
-* [Docker engine installation on any Linux Flavor.](https://rajkumar-aute.github.io/docker-linux/){:target="_blank"}
-
-* [Tomcat 9 installtion script for Ubuntu](https://rajkumar-aute.github.io/tomcat9-ubuntu-script/){:target="_blank"}
-
-
-<font size="6">  </font>
-<!--- commit -->
