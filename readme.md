@@ -1,5 +1,8 @@
-![](./image/call.png) ![](./image/whatsapp.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) [India](https://en.wikipedia.org/wiki/India){:target="_blank"} \
-![](./image/www.jpg) [**Resume --> Rajkumar-Aute.tk**](http://rajkumar-aute.tk){:target="_blank"} ~ ![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ ![](./image/blog.jpg)/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
+![](./image/www.jpg) [**Resume --> Rajkumar-Aute.tk**](http://rajkumar-aute.tk){:target="_blank"}
+\
+![](./image/call.png) ![](./image/whatsapp.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) [India](https://en.wikipedia.org/wiki/India){:target="_blank"}
+\
+![](./image/linkedin.jpg)[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ ![](./image/github.jpg)[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ ![](./image/blog.jpg)/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
 
 > **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking._ with 9+ years of experience in the IT field.
