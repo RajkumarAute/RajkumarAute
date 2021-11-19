@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="./image/profile-pic.jpg"> 
+<img align="right" width="90" height="90" src="./image/profile-pic.jpg"> 
 
 [&uarr;&uarr;_**<font size="1"> click hear or on my name for my latest résumé. </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}
 \
