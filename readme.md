@@ -22,7 +22,10 @@
 * Addressing L2 production issues on AWS cloud infra.
 * Launched and maintaining AWS Workspace and bundles.
 
-> ### ![](./image/devdigital.jpg) [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
+
+
+
+> ### <img width="" height="18" src="https://www.devdigital.com/public/front/images/logo.png"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
 * Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
 * Built and automated the process using CI/CD, Git, and Jenkins.
