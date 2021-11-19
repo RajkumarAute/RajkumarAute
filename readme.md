@@ -1,6 +1,6 @@
 [&uarr;&uarr;_**<font size="1"> click hear or on my name for my latest résumé. </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}
 
-<img align="right" width="100" height="100" src="./image/profile-pic.jpg/100/100>
+<img align="right" width="100" height="100" src="./image/profile-pic.jpg/100/100">
 
 \
 ![](./image/call.png) ![](./image/whatsapp.jpg) [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ ![](./image/gmail.jpg) [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~ ![](image/location.jpg) [India](https://en.wikipedia.org/wiki/India){:target="_blank"}
