@@ -9,16 +9,12 @@
 <img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~
 <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
-
 > **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking._ With 9+ years of experience in the IT field.
-
 
 ## Skills
 > * **DevOps Tools** • Kubernetes • Terraform ⦁	Git • Jenkins • Docker • Ansible • Server monitoring
 * **AWS (Amazon Web Services)** • EC2 • ECS • EKS • Auto Scaling • ELB • CloudFront • Elastic Cache • Route53 • Certificate Manager • Workspaces, • S3 Static Website hosting
 * **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • cPanel • Plesk • SSL • Public DNS ⦁	Network devices • Firewalls and AD DC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Virtualization • Microsoft Azure Cloud Computing
-
-
 
 ## Experience
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
@@ -67,7 +63,6 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 * Maintained Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
 * Managed Servers, Workstations, Routers, Switches, and existing network applications.
 
-
 ## Certifications
 <img width="" height="12" src="./image/aws.jpg"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ Oct 2019 - Oct 2022
 
@@ -77,7 +72,6 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 <img width="" height="11" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"} ~ Apr 2020 - Oct 2021
 
-
 ## Education
 <img width="" height="15" src="./image/gug.jpg"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016
 
@@ -86,8 +80,6 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 <img width="" height="15" src="./image/kar.png"> **[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/){:target="_blank"} 10+2** with 49% in 2009
 
 <img width="" height="15" src="./image/kar.png"> **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
-
-
 
 #### Honors & Awards
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
