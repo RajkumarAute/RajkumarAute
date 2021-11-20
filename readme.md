@@ -13,7 +13,8 @@
 > **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking._ With 9+ years of experience in the IT field.
 
 
-## Skills
+Skills
+---
 > * **DevOps Tools** • Kubernetes • Terraform ⦁	Git • Jenkins • Docker • Ansible • Server monitoring
 * **AWS (Amazon Web Services)** • EC2 • ECS • EKS • Auto Scaling • ELB • CloudFront • Elastic Cache • Route53 • Certificate Manager • Workspaces, • S3 Static Website hosting
 * **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • cPanel • Plesk • SSL • Public DNS ⦁	Network devices • Firewalls and AD DC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Virtualization • Microsoft Azure Cloud Computing
