@@ -1,23 +1,15 @@
 [&uarr;&uarr;_**<font size="1"> click hear or on my name for my latest résumé. </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"} [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 \
-
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~
-
 <img width="" height="12" src="./image/location.jpg"> [India](https://en.wikipedia.org/wiki/India){:target="_blank"}
 \
-
 <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~
-
 <img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~
-
 <img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~
-
 <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
 
-
 > **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking._ With 9+ years of experience in the IT field.
-
 
 
 ## Skills
@@ -61,7 +53,6 @@
 > ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
 | _System Engineer | **AWS, Linux, Windows.**_ | Mar 2015 - Jul 2018.(Rejoined)
 \
-
 Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Managed Linux servers for Web, Apps, and DB servers on AWS Cloud infrastructure. 
 * Managed AD Users & Groups, Group Policies, and Shared Files. 
@@ -71,11 +62,9 @@ Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
 | _Customer Support Engineer | **Windows and Network - Admin.**_ | Mar 2012 - Mar 2015
 \
-
 Client: MAFIL, Airtel, Idea, and Vodafone.
 * Maintained Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
 * Managed Servers, Workstations, Routers, Switches, and existing network applications.
-
 
 
 ## Certifications
@@ -86,7 +75,6 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 <img width="" height="12" src="./image/redhat.png"> [**Red hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"} ~ Jul 2018 - Jul 2021
 
 <img width="" height="11" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"} ~ Apr 2020 - Oct 2021
-
 
 
 ## Education
