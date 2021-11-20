@@ -1,16 +1,16 @@
 [&uarr;&uarr;_**<font size="1"> click hear or on my name for my latest résumé. </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}
 \
-<img width="" height="12" src="./image/call.png">  [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ 
+<img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~ 
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~ 
 <img width="" height="12" src="./image/location.jpg"> [India](https://en.wikipedia.org/wiki/India){:target="_blank"}
 \
 <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ 
-<img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ 
-<img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ 
-<img width="" height="12" src="./image/blog.png">/[RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
+<img width="" height="12" src="./image/linkedin.png"> [/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ 
+<img width="" height="12" src="./image/github.png"> [/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ 
+<img width="" height="12" src="./image/blog.png"> [/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}  
 
 
-> **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking._ with 9+ years of experience in the IT field.
+> **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in design, building, automating, and managing _DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking._ With 9+ years of experience in the IT field.
 
 
 ## Skills
