@@ -89,3 +89,6 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 #### Honors & Awards
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
+
+
+<link rel="shortcut icon" href="./image/resume.png" />
