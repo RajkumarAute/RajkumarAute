@@ -77,8 +77,8 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 <img width="" height="11" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"} ~ Apr 2020 - Oct 2021
 
 
-> ## Education
-* <img width="" height="15" src="./image/gug.jpg"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016
+## Education
+> * <img width="" height="15" src="./image/gug.jpg"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016
 
 * <img width="" height="15" src="./image/gug.jpg"> **Bachelor of Commerce - BCom** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 69.84% in 2013
 
