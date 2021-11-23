@@ -19,7 +19,7 @@
 * **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • cPanel • Plesk • SSL • Public DNS ⦁	Network devices • Firewalls and AD DC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Virtualization • Microsoft Azure Cloud Computing
 
 
-<abbr title="click on the below hyperlinks."> ## Experience </abbr>
+## <abbr title="For more details on the specific area, click on the below hyperlinks.">Experience</abbr>
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
 * Using Git and Terraform to automate the creation of cloud infra.
