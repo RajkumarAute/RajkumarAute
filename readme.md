@@ -1,4 +1,4 @@
-<abbr title="Click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[&uarr;&uarr;_**<font size="1"> click hear or on my name for my latest résumé. </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr>
+<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[&uarr;&uarr;_**<font size="1"> click hear or on my name for my latest résumé. </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr>
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~
@@ -19,7 +19,7 @@
 * **Other skills** • Linux • Windows • Virtual Web hosting • WordPress • WP-Engine • cPanel • Plesk • SSL • Public DNS ⦁	Network devices • Firewalls and AD DC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. • Virtualization • Microsoft Azure Cloud Computing
 
 
-## Experience
+<abbr title="click on the below hyperlinks."> ## Experience </abbr>
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
 * Using Git and Terraform to automate the creation of cloud infra.
