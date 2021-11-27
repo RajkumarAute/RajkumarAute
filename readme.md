@@ -29,8 +29,8 @@
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
-- [x] Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
-- [x] Built and automated the process using CI/CD, Git, and Jenkins.
+[x] Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
+[x] Built and automated the process using CI/CD, Git, and Jenkins.
 * Designed and built the AWS three-tier infra and services.
 * Addressed L3 production issues on AWS infra as well as L1 on Azure infrastructure. 
 * Contributed to Hosting and migration of websites and applications on Linux and Virtual web hosting services.
