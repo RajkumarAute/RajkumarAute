@@ -67,12 +67,9 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 
 ## Certifications
-> <img width="" height="12" src="./image/aws.jpg"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ Oct 2019 - Oct 2022
-
+> * <img width="" height="12" src="./image/aws.jpg"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ Oct 2019 - Oct 2022
 * <img width="" height="12" src="./image/azure.jpg"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"} ~ Jan 2021 - Jan 2023
-
 * <img width="" height="12" src="./image/redhat.png"> [**Red hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"} ~ Jul 2018 - Jul 2021
-
 * <img width="" height="11" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"} ~ Apr 2020 - Oct 2021
 
 
