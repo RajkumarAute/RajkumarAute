@@ -14,18 +14,18 @@
 
 
 ## Skills
-> * **DevOps Tools** + Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring 
-* **AWS (Amazon Web Services)** + EC2 + EKS + ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces, + S3 Static Website hosting
-* **Other skills** + Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls and AD DC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. + Virtualization + Microsoft Azure Cloud Computing
+> * **DevOps Tools** --> Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring 
+* **AWS (Amazon Web Services)** -> EC2 + EKS + ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces, + S3 Static Website hosting
+* **Other skills** - Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls and AD DC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. + Virtualization + Microsoft Azure Cloud Computing
 
 
 ## Experience
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
-| _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present. \
-! Using Git and Terraform to automate the creation of cloud infra. \
-! Design and implementation of AWS services across multiple accounts. \
-| Addressing L2 production issues on AWS cloud infra. \
-| Launched and maintaining AWS Workspace and bundles.
+| _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
+/ - Using Git and Terraform to automate the creation of cloud infra.
+/- Design and implementation of AWS services across multiple accounts.
+-> Addressing L2 production issues on AWS cloud infra.
+- Launched and maintaining AWS Workspace and bundles.
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
