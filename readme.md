@@ -14,9 +14,9 @@
 
 
 ## Skills
-> - [x] **DevOps Tools** > Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring 
-- [x]  **AWS (Amazon Web Services)** > EC2 - [x]  EKS - [x] ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces, + S3 Static Website hosting
-- [x] **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls and AD DC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. + Virtualization + Microsoft Azure Cloud Computing
+> * **DevOps Tools** > Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring 
+* **AWS (Amazon Web Services)** > EC2 + EKS + ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces, + S3 Static Website hosting
+* **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls and AD DC User & Group, Group Policies, File and Printer Sharing, Apache, Package Management, LVMs, and Database servers. + Virtualization + Microsoft Azure Cloud Computing
 
 
 ## Experience
@@ -29,8 +29,8 @@
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
-[x] Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
-[x] Built and automated the process using CI/CD, Git, and Jenkins.
+* Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
+* Built and automated the process using CI/CD, Git, and Jenkins.
 * Designed and built the AWS three-tier infra and services.
 * Addressed L3 production issues on AWS infra as well as L1 on Azure infrastructure. 
 * Contributed to Hosting and migration of websites and applications on Linux and Virtual web hosting services.
