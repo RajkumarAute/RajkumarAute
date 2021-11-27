@@ -21,10 +21,10 @@
 
 ## Experience
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
-| _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
-! Using Git and Terraform to automate the creation of cloud infra.
-! Design and implementation of AWS services across multiple accounts.
-| Addressing L2 production issues on AWS cloud infra.
+| _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present. \
+! Using Git and Terraform to automate the creation of cloud infra. \
+! Design and implementation of AWS services across multiple accounts. \
+| Addressing L2 production issues on AWS cloud infra. \
 | Launched and maintaining AWS Workspace and bundles.
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
