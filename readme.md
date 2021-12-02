@@ -1,13 +1,13 @@
 <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[&uarr;&uarr;_**<font size="1"> click hear or on my name for my latest résumé. </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr>
 \
-<img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
-<img width="" height="12" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png"> [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~
-<img width="" height="12" src="https://www.gstatic.com/images/branding/product/2x/maps_48dp.png"> [India](https://en.wikipedia.org/wiki/India){:target="_blank"} <font size="0">(I'm looking for a Kubernetes DevOps AWS role in Hyderabad.)</font>
+<img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki-mobile-phone-15.svg/800px-Maki-mobile-phone-15.svg.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
+<img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"> [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~
+<img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Google_Maps_icon_%282020%29.svg/418px-Google_Maps_icon_%282020%29.svg.png"> [India](https://en.wikipedia.org/wiki/India){:target="_blank"} <font size="0">(I'm looking for a Kubernetes DevOps AWS role in Hyderabad.)</font>
 \
-<img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~
-<img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~
-<img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~
-<img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
+<img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Website_gambar.jpg"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~
+<img width="" height="12" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~
+<img width="" height="12" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~
+<img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 
 
 > **DevOps** and **AWS Cloud Architect** enthusiast. Proficient in DevOps tools, AWS Cloud Architect, Azure, Linux, Windows, and networking design, development, automation, and administration. 9+ years of IT experience.
@@ -82,6 +82,3 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 #### Honors & Awards
 > _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
-
-
-./image/gmail.png
