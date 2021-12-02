@@ -32,7 +32,7 @@
 * Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
 * Built and automated the process using CI/CD, Git, and Jenkins.
 * Designed and built the AWS three-tier infra and services.
-* Addressed L3 production issues on AWS infra as well as L1 on Azure infrastructure. 
+* Addressed L3 production issues on AWS as well as L1 on Azure. 
 * Contributed to Hosting and migration of websites and applications on Linux and Virtual web hosting services.
 
 > ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
