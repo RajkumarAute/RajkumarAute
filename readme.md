@@ -25,7 +25,7 @@
 * Using Git and Terraform to automate the creation of cloud infra.
 * Design and implementation of AWS services across multiple accounts.
 * Addressing L2 production issues on AWS cloud infra.
-* Launched and maintaining AWS Workspace and bundles.
+* Provisioning and maintaining AWS Workspace.
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
