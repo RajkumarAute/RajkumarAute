@@ -20,7 +20,7 @@
 
 
 ## Experience
-> ### <img width="" height="18" src=$tcs_logo$> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
+> ### <img width="" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/512px-Tata_Consultancy_Services_Logo.svg.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
 * Using Git and Terraform to automate the creation of cloud infra.
 * Design and implementation of AWS services across multiple accounts.
@@ -67,10 +67,10 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 
 ## Certifications
-> * <img width="" height="12" src="./image/aws.jpg"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ Oct 2019 - Oct 2022
-* <img width="" height="12" src="./image/azure.jpg"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"} ~ Jan 2021 - Jan 2023
-* <img width="" height="12" src="./image/redhat.png"> [**Red hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"} ~ Jul 2018 - Jul 2021
-* <img width="" height="11" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"} ~ Apr 2020 - Oct 2021
+> * <img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ Oct 2019 - Oct 2022
+* <img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"} ~ Jan 2021 - Jan 2023
+* <img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/800px-Red_Hat_logo.svg.png"> [**Red hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"} ~ Jul 2018 - Jul 2021
+* <img width="" height="11" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1920px-Oracle_logo.svg.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"} ~ Apr 2020 - Oct 2021
 
 
 ## Education
@@ -82,5 +82,3 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 #### Honors & Awards
 > _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
-
-[tcs_logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/512px-Tata_Consultancy_Services_Logo.svg.png
