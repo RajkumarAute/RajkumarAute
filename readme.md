@@ -4,8 +4,8 @@
 <img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"> [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Google_Maps_icon_%282020%29.svg/418px-Google_Maps_icon_%282020%29.svg.png"> [India](https://en.wikipedia.org/wiki/India){:target="_blank"} <font size="0">(I'm looking for a Kubernetes DevOps AWS role in Hyderabad.)</font>
 \
-<img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Website_gambar.jpg"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~
-<img width="" height="12" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~
+<img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/420px-Globe_icon.svg.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~
+<img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~
 <img width="" height="12" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~
 <img width="" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 
@@ -20,7 +20,7 @@
 
 
 ## Experience
-> ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
+> ### <img width="" height="18" src=[tcs_logo]> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
 * Using Git and Terraform to automate the creation of cloud infra.
 * Design and implementation of AWS services across multiple accounts.
@@ -82,3 +82,5 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 #### Honors & Awards
 > _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
+
+[tcs_logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/512px-Tata_Consultancy_Services_Logo.svg.png
