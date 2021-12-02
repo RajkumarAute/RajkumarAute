@@ -1,7 +1,7 @@
 <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[&uarr;&uarr;_**<font size="1"> click hear or on my name for my latest résumé. </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr>
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
-<img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](RajkumarAute@gmail.com){:target="_blank"} ~
+<img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="12" src="./image/location.jpg"> [India](https://en.wikipedia.org/wiki/India){:target="_blank"} <font size="0">(I'm looking for a Kubernetes DevOps AWS role in Hyderabad.)</font>
 \
 <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~
