@@ -35,7 +35,7 @@
 * Contributed to Hosting and migration of websites and applications on Linux and Virtual web hosting services.
 
 > ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
-| _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020.
+| _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020
 * Kubernetes and Docker have been used to build containerized infra and Terraform has been used to build cloud infra.
 * Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the application and services.
 * Designed and built the AWS Cloud infrastructure for Production, as well as taking care of L2 production issues.
