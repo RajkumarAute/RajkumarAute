@@ -24,8 +24,7 @@
 | _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
 * Using Git and Terraform to automate the creation of cloud infra.
 * Design and implementation of AWS services across multiple accounts.
-* Addressing L2 production issues on AWS cloud infra.
-* Provisioning and maintaining AWS Workspace.
+* Addressing L2 production issues on AWS cloud infra. And Provisioning Workspaces.
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
@@ -37,7 +36,7 @@
 
 > ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020.
-* Kubernetes and Docker have been used to build microservices and Terraform has been used to build cloud infra.
+* Kubernetes and Docker have been used to build containerized infra and Terraform has been used to build cloud infra.
 * Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the application and services.
 * Designed and built the AWS Cloud infrastructure for Production, as well as taking care of L2 production issues.
 * Transformed the application deployment process using DevOps various tools.
@@ -59,7 +58,7 @@ Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Maintained Enterprise Network Printers on Windows Server.
 
 > ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
-| _Customer Support Engineer | **Windows and Network - Admin.**_ | Mar 2012 - Mar 2015
+| _Customer Support Engineer | **Windows and Network - Admin.**_ | Mar 2012 - Mar 2015[.](https://drive.google.com/drive/folders/1T-4uCrKOcUOPsqwuHKDynp77nk3jSxHf?usp=sharing)
 \
 Client: MAFIL, Airtel, Idea, and Vodafone.
 * Maintained Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
