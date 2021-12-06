@@ -21,13 +21,13 @@
 
 ## Experience
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
-| _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present.
+| _IT Analyst_ | _**AWS Cloud Architect and DevOps**_ | Dec 2020 - Present
 * Using Git and Terraform to automate the creation of cloud infra.
 * Design and implementation of AWS services across multiple accounts.
 * Addressing L2 production issues on AWS cloud infra. And Provisioning Workspaces.
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
-| _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020.
+| _Server Administrator | **DevOps, and AWS Cloud Architect**_ | May 2020 - Nov 2020
 * Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
 * Built and automated the process using CI/CD, Git, and Jenkins.
 * Designed and built the AWS three-tier infra and services.
@@ -50,7 +50,7 @@
 * Implemented DevOps tools to improve application deployment such as Git, and Jenkins.
 
 > ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
-| _System Engineer | **AWS, Linux, Windows.**_ | Mar 2015 - Jul 2018.(Rejoined)
+| _System Engineer | **AWS, Linux, Windows.**_ | Mar 2015 - Jul 2018(Rejoined)
 \
 Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Managed Linux servers for Web, Apps, and DB servers on AWS Cloud infrastructure. 
@@ -58,7 +58,7 @@ Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Maintained Enterprise Network Printers on Windows Server.
 
 > ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
-| _Customer Support Engineer | **Windows and Network - Admin.**_ | Mar 2012 - Mar 2015[.](https://drive.google.com/drive/folders/1T-4uCrKOcUOPsqwuHKDynp77nk3jSxHf?usp=sharing)
+| _Customer Support Engineer | **Windows and Network - Admin.**_ | Mar 2012 - Mar 2015
 \
 Client: MAFIL, Airtel, Idea, and Vodafone.
 * Maintained Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
