@@ -28,16 +28,14 @@
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | May 2020 - Nov 2020
-* Kubernetes, EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
+* Kubernetes, AWS EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
 * Built and automated the process using CI/CD, Git, Jenkins and buddy.works.
-* Designed and built the AWS three-tier infra and services.
 * Addressed L3 production issues on AWS as well as L1 on Azure. 
-* Contributed to Hosting and migration of websites and applications on Linux and Virtual web hosting services.
+* Contributed to Hosted webapp on Cloud and Virtual web hosting.
 
 > ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020
-* Kubernetes and Docker have been used to build containerized infra and Terraform has been used to build cloud infra.
-* Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the application and services.
+* Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application and services.
 * Designed and built the AWS Cloud infrastructure for Production, as well as taking care of L2 production issues.
 * Transformed the application deployment process using DevOps various tools.
 * Supported 6+ Citrix XenServer host machines with 40+ VMs, Office 365, and JD Edwards ERP As CNC Admin.
