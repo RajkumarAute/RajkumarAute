@@ -1,4 +1,4 @@
-- 👋 Hi, My handle is @RajkumarAute.
+- 👋 Hi, My handle is @Rajkumar-Aute.
 - 👀 DevOps and cloud infrastructure are areas of interest for me.
 - 🌱 I'm now honing my DevOps and cloud computing abilities.
 - 💞️ I'd want to work with you on DevOps and cloud infrastructure.
