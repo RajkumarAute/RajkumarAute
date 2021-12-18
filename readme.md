@@ -36,9 +36,9 @@
 > ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020
 * Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application and services.
-* Designed and built the AWS Cloud infrastructure for Production, as well as taking care of L2 production issues.
+* Designed and built the AWS Cloud infra for Production, as well as taking care of L2 production issues.
 * Transformed the application deployment process using DevOps various tools.
-* Supported 6+ Citrix XenServer host machines with 40+ VMs, Office 365, and JD Edwards ERP As CNC Admin.
+* Supported 15+ host machines with 80+ VMs, Office 365, and JD Edwards ERP as CNC Admin.
 
 > ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ~ Hyderabad 
 | _Executive IT | **AWS & Linux**_ | Aug 2018 - Aug 2019
