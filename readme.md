@@ -44,23 +44,21 @@
 | _Executive IT | **AWS & Linux**_ | Aug 2018 - Aug 2019
 * Accomplished multiple AWS Cloud Services, such as EC2, RDS, S3,
 * Achieved 98% service uptime for Billing application and Website on Linux & DB servers on AWS Cloud and VMWare ESXi.
-* Handled the on-premises infra to Cloud migration project.
-* Implemented DevOps tools to improve application deployment such as Git, and Jenkins.
+* Contributed to Cloud migration project. And Implemented DevOps tools to improve application deployment such as Git, and Jenkins.
 
 > ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
 | _System Engineer | **AWS, Linux, Windows.**_ | Mar 2015 - Jul 2018(Rejoined)
 \
 Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
-* Managed Linux servers for Web, Apps, and DB servers on AWS Cloud infrastructure. 
-* Managed AD Users & Groups, Group Policies, and Shared Files. 
-* Maintained Enterprise Network Printers on Windows Server.
+* Managed Linux servers for Web, Apps, and DB servers on AWS Cloud. 
+* Maintained ADDC, Users & Groups, Group Policies, Files and Printer Sharing on Windows Server. 
 
 > ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
 | _Customer Support Engineer | **Windows and Network - Admin.**_ | Mar 2012 - Mar 2015
 \
 Client: MAFIL, Airtel, Idea, and Vodafone.
-* Maintained Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
-* Managed Servers, Workstations, Routers, Switches, and existing network applications.
+* Managed Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
+* Maintained Servers, Workstations, Routers, Switches, and existing network applications.
 
 
 ## Certifications
