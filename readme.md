@@ -14,9 +14,9 @@
 
 
 ## Skills
-> * **DevOps Tools** > Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring 
-* **AWS (Amazon Web Services)** > EC2 + EKS + ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces + S3 Static Website hosting
-* **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls + AD DC User & Group + Group Policies + File and Printer Sharing + Apache + Package Management + LVMs + Database servers + Virtualization + VMWare + Citrix XenServer + Microsoft Azure Cloud Computing
+> **DevOps Tools** > Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring \
+ **AWS (Amazon Web Services)** > EC2 + EKS + ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces + S3 Static Website hosting \
+ **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls + AD DC User & Group + Group Policies + File and Printer Sharing + Apache + Package Management + LVMs + Database servers + Virtualization + VMWare + Citrix XenServer + Microsoft Azure Cloud Computing
 
 
 ## Experience
@@ -37,13 +37,11 @@
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Sep 2019 - Apr 2020
 * Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application and services.
 * Designed and built the AWS Cloud infra for Production, as well as taking care of L2 production issues.
-* Transformed the application deployment process using DevOps various tools.
 * Supported 15+ host machines with 80+ VMs, Office 365, and JD Edwards ERP as CNC Admin.
 
 > ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ~ Hyderabad 
 | _Executive IT | **AWS & Linux**_ | Aug 2018 - Aug 2019
-* Accomplished multiple AWS Cloud Services, such as EC2, RDS, S3,
-* Achieved 98% service uptime for Billing application and Website on Linux & DB servers on AWS Cloud and VMWare ESXi.
+* Accomplished various AWS Cloud Services and Achieved 98% service uptime for Billing application and Website on Linux & DB servers on Cloud and VMWare ESXi.
 * Contributed to Cloud migration project. And Implemented DevOps tools to improve application deployment such as Git, and Jenkins.
 
 > ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
