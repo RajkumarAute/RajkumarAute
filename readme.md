@@ -1,4 +1,4 @@
-<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[&uarr;&uarr;_**<font size="1"> for my latest résumé | click hear | on my name | https://rajkumar-aute.github.io/Rajkumar-Aute </font>**_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr>
+<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[&uarr;&uarr;_<font size="1"> for my latest résumé | click hear | on my name | https://rajkumar-aute.github.io/Rajkumar-Aute </font>_](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr>
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
