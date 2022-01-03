@@ -53,7 +53,9 @@ Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 
 > ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"}<font size="1"> | 1 Mar 2012 - 31 July 2014</font>
 ### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"} <font size="1"> | 26 Aug 2014 - 15 Mar 2015.</font>
-<font size="2">| _Customer Support Engineer | **Windows and Network - Admin.**_ | Client: MAFIL, Airtel, Idea, and Vodafone.</font>
+<font size="2">| _Customer Support Engineer | **Windows and Network - Admin.**_ | </font>
+\
+Client: MAFIL, Airtel, Idea, and Vodafone.
 * Managed Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
 * Maintained Servers, Workstations, Routers, Switches, and existing network applications.
 
