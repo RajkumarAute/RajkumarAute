@@ -21,20 +21,20 @@
 
 ## Experience
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
-| _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | <font size="1">1 Dec 2020-Present</font>
+| _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | <font size="1">1 Dec 2020 - Present</font>
 * Using Git and Terraform to automate the creation of cloud infra.
 * Design and implementation of AWS services across multiple accounts.
 * Addressing L2 production issues on AWS cloud infra. And Provisioning Workspaces.
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
-| _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | <font size="1">11 May 2020-23 Nov 2020.</font>
+| _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | <font size="1">11 May 2020 - 23 Nov 2020.</font>
 * Kubernetes, AWS EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
 * Built and automated the process using CI/CD, Git, Jenkins and buddy.works.
 * Addressed L3 production issues on AWS as well as L1 on Azure. 
 * Contributed to Hosted webapp on Cloud and Virtual web hosting.
 
 > ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
-| _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | <font size="1">3 Sep 2019-20 Apr 2020.</font>
+| _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
 * Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application and services.
 * Designed and built the AWS Cloud infra for Production, as well as taking care of L2 production issues.
 * Supported 15+ host machines with 80+ VMs, Office 365, and JD Edwards ERP as CNC Admin.
@@ -51,19 +51,18 @@ Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Managed Linux servers for Web, Apps, and DB servers on AWS Cloud. 
 * Maintained ADDC, Users & Groups, Group Policies, Files and Printer Sharing on Windows Server. 
 
-> ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
-| _Customer Support Engineer | **Windows and Network - Admin.**_ | <font size="1">1 Mar 2012 - 31 July 2014, & 26 Aug 2014 - 15 Mar 2015.</font> <font size="1"> </font>
-\
-Client: MAFIL, Airtel, Idea, and Vodafone.
+> ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"}<font size="1"> | 1 Mar 2012 - 31 July 2014</font>
+### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"} <font size="1"> | 26 Aug 2014 - 15 Mar 2015.</font>
+<font size="1">| _Customer Support Engineer | **Windows and Network - Admin.**_ | Client: MAFIL, Airtel, Idea, and Vodafone.</font>
 * Managed Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
 * Maintained Servers, Workstations, Routers, Switches, and existing network applications.
 
 
 ## Certifications
-> * <img width="" height="12" src="./image/aws.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"} ~ <font size="1">Oct 2019 - Oct 2022</font>
-* <img width="" height="12" src="./image/azure.jpg"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"} ~ <font size="1">Jan 2021 - Jan 2023</font>
-* <img width="" height="12" src="./image/redhat.png"> [**Red hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"} ~ <font size="1">Jul 2018 - Jul 2021</font>
-* <img width="" height="11" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"} ~ <font size="1">Apr 2020 - Oct 2021</font>
+> * <img width="" height="12" src="./image/aws.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>
+* <img width="" height="12" src="./image/azure.jpg"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>
+* <img width="" height="12" src="./image/redhat.png"> [**Red hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font>
+* <img width="" height="11" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Apr 2020 - Oct 2021</font>
 
 
 ## Education
