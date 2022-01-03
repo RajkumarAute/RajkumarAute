@@ -51,9 +51,8 @@ Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
 * Managed Linux servers for Web, Apps, and DB servers on AWS Cloud. 
 * Maintained ADDC, Users & Groups, Group Policies, Files and Printer Sharing on Windows Server. 
 
-> ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"}<font size="1"> | 1 Mar 2012 - 31 July 2014</font>
-### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"} <font size="1"> | 26 Aug 2014 - 15 Mar 2015.</font>
-<font size="2">| _Customer Support Engineer | **Windows and Network - Admin.**_ | </font>
+> ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
+| _Customer Support Engineer | **Windows and Network - Admin.**_ | <font size="1">1 Mar 2012 - 31 July 2014, & 26 Aug 2014 - 15 Mar 2015.</font> <font size="1"> </font>
 \
 Client: MAFIL, Airtel, Idea, and Vodafone.
 * Managed Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
