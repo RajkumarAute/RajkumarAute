@@ -16,13 +16,13 @@
 ## Skills
 > **DevOps Tools** > Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring \
  **AWS (Amazon Web Services)** > EC2 + EKS + ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces + S3 Static Website hosting \
- **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls + AD DC User & Group + Group Policies + File and Printer Sharing + Apache + Package Management + LVMs + Database servers + Virtualization + VMWare + Citrix XenServer + Microsoft Azure Cloud Computing
+ **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls + AD DC User & Group + Group Policies + File and Printer Sharing + Apache + Package Management + LVMs + Database servers + Virtualization + VMWare + Citrix XenServer + Microsoft Azure Cloud Computing + ITSM
 
 
 ## Experience
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | <font size="1">1 Dec 2020 - Present</font>
-* Using Git and Terraform to automate the creation of cloud infra.
+* Using Git and Terraform to automate the creation of secured cloud infra.
 * Design and implementation of AWS services across multiple accounts.
 * Addressing L2 production issues on AWS cloud infra. And Provisioning Workspaces.
 
@@ -30,7 +30,7 @@
 | _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | <font size="1">11 May 2020 - 23 Nov 2020.</font>
 * Kubernetes, AWS EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
 * Built and automated the process using CI/CD, Git, Jenkins and buddy.works.
-* Addressed L3 production issues on AWS as well as L1 on Azure. 
+* Addressed L3 production issues and security concerns on AWS as well as L1 on Azure. 
 * Contributed to Hosted webapp on Cloud and Virtual web hosting.
 
 > ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
