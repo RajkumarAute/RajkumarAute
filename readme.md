@@ -74,5 +74,5 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 
 #### Honors & Awards
-> * Achieved the [__TCS Contextual Master Award__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth) for sharing my Cloud DevOps knowledge and contributing to the client project.
+> * _Achieved the [__TCS Contextual Master Award__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth) for sharing my Cloud DevOps knowledge and contributing to the client project._
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
