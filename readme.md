@@ -16,7 +16,7 @@
 ## Skills
 > **DevOps Tools** > Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring \
  **AWS (Amazon Web Services)** > EC2 + EKS + ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces + S3 Static Website hosting \
- **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls + AD DC User & Group + Group Policies + File and Printer Sharing + Apache + Package Management + LVMs + Database servers + Virtualization + VMWare + Citrix XenServer + Microsoft Azure Cloud Computing + ITSM
+ **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls + AD DC User & Group + Group Policies + File and Printer Sharing + Apache + Package Management + LVMs + Database servers + Virtualization + VMWare + Citrix XenServer + Microsoft Azure Cloud Computing + ITSM + Agile
 
 
 ## Experience
@@ -28,7 +28,7 @@
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | <font size="1">11 May 2020 - 23 Nov 2020.</font>
-* Kubernetes, AWS EKS, ECS, and Docker used to build containerized infra and Terraform used to build AWS infra.
+* Kubernetes, AWS EKS, ECS, and Docker tools are used to build containerized infra and Terraform used to build AWS infra.
 * Built and automated the process using CI/CD, Git, Jenkins and buddy.works.
 * Addressed L3 production issues and security concerns on AWS as well as L1 on Azure. 
 * Contributed to Hosted webapp on Cloud and Virtual web hosting.
@@ -74,5 +74,5 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 
 #### Honors & Awards
-> * _Achieved the [__TCS Contextual Master Award__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} for sharing my Cloud DevOps knowledge and contributing to the client project._
+> * _Achieved the [__TCS Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge and contributing to the client project._
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
