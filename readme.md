@@ -14,15 +14,18 @@
 
 
 ## Skills
-> **DevOps Tools** > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Server monitoring \
- **AWS (Amazon Web Services) & Microsoft Azure** > Compute, Storage, Networking technologies & all other services. \
+> **DevOps Tools** > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring
+\
+ **AWS (Amazon Web Services) & Microsoft Azure** > Cloud Compute, Storage, Network & other services. 
+\
  **Other skills** > Linux, Windows, Virtual Web hosting services, ITSM, Agile, EC2, EKS, ECS, Auto Scaling, ELB, CloudFront, Elastic Cache, Route53, Workspaces, Azure Artifacts, Azure Boards, Azure Pipelines, Azure Repos, Azure Test Plans, Firewalls, AD DC User & Group, Group Policies, File & Printer Sharing, Apache, Package Management, LVMs, Database servers, Virtualization, VMWare, Citrix XenServer 
 
 
 ## Experience
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | <font size="1">1 Dec 2020 - Present</font>
-* Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.\
+\
+Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.\
 Using Git & Terraform to automate the creation of secured cloud infra.
 \
 Design & implementation of AWS services across multiple accounts.
