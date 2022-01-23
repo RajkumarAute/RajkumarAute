@@ -10,53 +10,56 @@
 <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 
 
-> **DevOps,** **AWS Cloud Architect,** Azure, Linux, Windows, and Networking expert. 9+ years experience in the IT area in design, development, and automation. 
+> **DevOps,** **AWS Cloud Architect,** Azure, Linux, Windows, & Networking expert. 9+ years experience in the IT area in design, development, & automation. 
 
 
 ## Skills
 > **DevOps Tools** > Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring \
  **AWS (Amazon Web Services)** > EC2 + EKS + ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces + S3 Static Website hosting \
- **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls + AD DC User & Group + Group Policies + File and Printer Sharing + Apache + Package Management + LVMs + Database servers + Virtualization + VMWare + Citrix XenServer + Microsoft Azure Cloud Computing + ITSM + Agile
+ **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls + AD DC User & Group + Group Policies + File & Printer Sharing + Apache + Package Management + LVMs + Database servers + Virtualization + VMWare + Citrix XenServer + Microsoft Azure Cloud Computing + ITSM + Agile
 
 
 ## Experience
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
 | _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | <font size="1">1 Dec 2020 - Present</font>
-* Using Git and Terraform to automate the creation of secured cloud infra.
-* Design and implementation of AWS services across multiple accounts.
-* Addressing L2 production issues on AWS cloud infra. And Provisioning Workspaces.
+* _Achieved the [__TCS Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project._
+* Using Git & Terraform to automate the creation of secured cloud infra.
+* Design & implementation of AWS services across multiple accounts.
+* Addressing L2 production issues on AWS cloud infra. & Provisioning Workspaces.
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
 | _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | <font size="1">11 May 2020 - 23 Nov 2020.</font>
-* Kubernetes, AWS EKS, ECS, and Docker tools are used to build containerized infra and Terraform used to build AWS infra.
-* Built and automated the process using CI/CD, Git, Jenkins and buddy.works.
-* Addressed L3 production issues and security concerns on AWS as well as L1 on Azure. 
-* Contributed to Hosted webapp on Cloud and Virtual web hosting.
+* Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.
+* Built & automated the process using CI/CD, Git, Jenkins & buddy.works.
+* Addressed L3 production issues & security concerns on AWS as well as L1 on Azure. 
+* Contributed to Hosted webapp on Cloud & Virtual web hosting.
 
 > ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
-* Git and Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application and services.
-* Designed and built the AWS Cloud infra for Production, as well as taking care of L2 production issues.
-* Supported 15+ host machines with 80+ VMs, Office 365, and JD Edwards ERP as CNC Admin.
+* Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services.
+* Designed & built the AWS Cloud infra for Production, as well as taking care of L2 production issues.
+* Supported 15+ host machines with 80+ VMs, Office 365, & JD Edwards ERP as CNC Admin.
 
 > ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ~ Hyderabad 
 | _Executive IT | **AWS & Linux**_ | <font size="1">1 Aug 2018 - 31 Aug 2019</font>
-* Accomplished various AWS Cloud Services and Achieved 98% service uptime for Billing application and Website on Linux & DB servers on Cloud and VMWare ESXi.
-* Contributed to Cloud migration project. And Implemented DevOps tools to improve application deployment such as Git, and Jenkins.
+* Appreciated by the VP for implementing automation to reduce human efforts & improve best practises.
+* Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers on Cloud & VMWare ESXi.
+* Contributed to Cloud migration project, & Implemented DevOps tools to improve application deployment such as Git, & Jenkins.
 
 > ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
 | _System Engineer | **AWS, Linux, Windows.**_ | <font size="1">27 Mar 2015 - 31 Jul 2017 & 11 Oct 2017 - 31 Jul 2018 (Rejoined).</font>
 \
-Client: Nunhems Seeds Pvt. Ltd Hyderabad, and MAFIL.
-* Managed Linux servers for Web, Apps, and DB servers on AWS Cloud. 
-* Maintained ADDC, Users & Groups, Group Policies, Files and Printer Sharing on Windows Server. 
+Client: Nunhems Seeds Pvt. Ltd Hyderabad, & MAFIL.
+* Appreciated by the clients for implementing best practises in IT service & improving server & network infrastructure.
+* Managed Linux servers for Web, Apps, & DB servers on AWS Cloud. 
+* Maintained ADDC, Users & Groups, Group Policies, Files & Printer Sharing on Windows Server. 
 
 > ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
-| _Customer Support Engineer | **Windows and Network - Admin.**_ | <font size="1">1 Mar 2012 - 31 July 2014, & 26 Aug 2014 - 15 Mar 2015.</font> <font size="1"> </font>
+| _Customer Support Engineer | **Windows & Network - Admin.**_ | <font size="1">1 Mar 2012 - 31 July 2014, & 26 Aug 2014 - 15 Mar 2015.</font> <font size="1"> </font>
 \
-Client: MAFIL, Airtel, Idea, and Vodafone.
-* Managed Active Directory, Domain users & Groups, Group Policies, File, and Printer Sharing. 
-* Maintained Servers, Workstations, Routers, Switches, and existing network applications.
+Client: MAFIL, Airtel, Idea, & Vodafone.
+* Managed Active Directory, Domain users & Groups, Group Policies, File, & Printer Sharing. 
+* Maintained Servers, Workstations, Routers, Switches, & existing network applications.
 
 
 ## Certifications
@@ -74,5 +77,4 @@ Client: MAFIL, Airtel, Idea, and Vodafone.
 
 
 #### Honors & Awards
-> * _Achieved the [__TCS Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge and contributing to the client project._
 * _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
