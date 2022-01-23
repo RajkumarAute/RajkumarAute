@@ -21,21 +21,21 @@
 
 ## Experience
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
-#### | _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | <font size="1">1 Dec 2020 - Present</font>
+| _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | <font size="1">1 Dec 2020 - Present</font>
 * Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.
 * Using Git & Terraform to automate the creation of secured cloud infra.
 * Design & implementation of AWS services across multiple accounts.
 * Addressing L2 production issues on AWS cloud infra. & Provisioning Workspaces.
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
-##### | _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | <font size="1">11 May 2020 - 23 Nov 2020.</font>
+| _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | <font size="1">11 May 2020 - 23 Nov 2020.</font>
 * Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.
 * Built & automated the process using CI/CD, Git, Jenkins & buddy.works.
 * Addressed L3 production issues & security concerns on AWS as well as L1 on Azure. 
 * Contributed to Hosted webapp on Cloud & Virtual web hosting.
 
 > ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
-###### | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
+| _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
 * Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services.
 * Designed & built the AWS Cloud infra for Production, as well as taking care of L2 production issues.
 * Supported 15+ host machines with 80+ VMs, Office 365, & JD Edwards ERP as CNC Admin.
