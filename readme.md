@@ -22,8 +22,8 @@
 
 
 ## Experience
-### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ~ Bangalore
-| _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | <font size="1">1 Dec 2020 - Present</font>
+### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"}
+| _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | Bangalore | <font size="1">1 Dec 2020 - Present</font>
 > Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.
 \
 Using Git & Terraform to automate the creation of secured cloud infra.
@@ -32,31 +32,31 @@ Design & implementation of AWS services across multiple accounts.
 \
 Addressing L2 production issues on AWS cloud infra. & Provisioning Workspaces.
 
-### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ~ WFH
-| _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | <font size="1">11 May 2020 - 23 Nov 2020.</font>
+### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"}
+| _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | WFH | <font size="1">11 May 2020 - 23 Nov 2020.</font>
 | Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.
 | Built & automated the process using CI/CD, Git, Jenkins & buddy.works.
 | Addressed L3 production issues & security concerns on AWS as well as L1 on Azure. 
 | Contributed to Hosted webapp on Cloud & Virtual web hosting.
 
-### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} ~ Hyderabad
-| _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
+### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"}
+| _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Hyderabad | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
 > Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services.
 \ 
 Designed & built the AWS Cloud infra for Production, as well as taking care of L2 production issues.
 \
 Supported 15+ host machines with 80+ VMs, Office 365, & JD Edwards ERP as CNC Admin.
 
-### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ~ Hyderabad 
-| _Executive IT | **AWS & Linux**_ | <font size="1">1 Aug 2018 - 31 Aug 2019</font>
+### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} 
+| _Executive IT | **AWS & Linux**_ | Hyderabad | <font size="1">1 Aug 2018 - 31 Aug 2019</font>
 > Appreciated by the VP for implementing automation to reduce human efforts & improve best practises.
 \
 Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers on Cloud & VMWare ESXi.
 \
 Contributed to Cloud migration project, & Implemented DevOps tools to improve application deployment such as Git, & Jenkins.
 
-### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ~ Hyderabad
-| _System Engineer | **AWS, Linux, Windows.**_ | <font size="1">27 Mar 2015 - 31 Jul 2017 & 11 Oct 2017 - 31 Jul 2018 (Rejoined).</font>
+### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"}
+| _System Engineer | **AWS, Linux, Windows.**_ |  Hyderabad | <font size="1">27 Mar 2015 - 31 Jul 2017 & 11 Oct 2017 - 31 Jul 2018 (Rejoined).</font>
 \
 Client: Nunhems Seeds Pvt. Ltd Hyderabad, & MAFIL.
 > Appreciated by the clients for implementing best practises in IT service & improving server & network infrastructure.
