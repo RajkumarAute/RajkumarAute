@@ -14,11 +14,11 @@
 
 
 ## Skills
-> **DevOps Tools** > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring
+> ***DevOps Tools*** > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring
 \
-**AWS (Amazon Web Services) & Microsoft Azure** > Cloud Compute, Storage, Network & other services. 
+***AWS (Amazon Web Services) & Microsoft Azure*** > Cloud Compute, Storage, Network & other services. 
 \
-**Other skills** > Linux, Windows, Virtual Web hosting services, ITSM, Agile, EC2, EKS, ECS, Auto Scaling, ELB, CloudFront, Elastic Cache, Route53, Workspaces, Azure Artifacts, Azure Boards, Azure Pipelines, Azure Repos, Azure Test Plans, Firewalls, AD DC User & Group, Group Policies, File & Printer Sharing, Apache, Package Management, LVMs, Database servers, Virtualization, VMWare, Citrix XenServer 
+***Other skills*** > Linux, Windows, Virtual Web hosting services, ITSM, Agile, EC2, EKS, ECS, Auto Scaling, ELB, CloudFront, Elastic Cache, Route53, Workspaces, Azure Artifacts, Azure Boards, Azure Pipelines, Azure Repos, Azure Test Plans, Firewalls, AD DC User & Group, Group Policies, File & Printer Sharing, Apache, Package Management, LVMs, Database servers, Virtualization, VMWare, Citrix XenServer 
 
 
 ## Experience
