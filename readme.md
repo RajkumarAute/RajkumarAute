@@ -7,8 +7,9 @@
 <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~
 <img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~
 <img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~
+<!--- 
 <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
-
+-->
 
 > **DevOps, Cloud Architect,** AWS, Azure DevOps, Linux, Windows, & Networking expert. 9+ years experience in the IT area in design, automation & development. 
 
