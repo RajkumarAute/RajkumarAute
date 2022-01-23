@@ -2,7 +2,7 @@
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
-<img width="" height="12" src="./image/location.jpg"> [India](https://en.wikipedia.org/wiki/India){:target="_blank"} <font size="0">(I'm looking for a Kubernetes DevOps AWS role in Hyderabad.)</font>
+<img width="" height="12" src="./image/location.jpg"> [Hyderabad](https://en.wikipedia.org/wiki/Hyderabad){:target="_blank"} <font size="0">(I'm looking for a Kubernetes DevOps AWS role in Hyderabad.)</font>
 \
 <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~
 <img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~
