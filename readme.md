@@ -21,7 +21,7 @@
 
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"}
-| _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | Bangalore | <font size="1">1 Dec 2020 - Present</font>
+| _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | Bangalore | <font size="1">1^st^ Dec 2020 - Present</font>
 > : Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.
 : Using Git & Terraform to automate the creation of secured cloud infra.
 : Design & implementation of AWS services across multiple accounts.
