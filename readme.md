@@ -10,13 +10,13 @@
 <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 
 
-> **DevOps,** **AWS Cloud Architect,** Azure, Linux, Windows, & Networking expert. 9+ years experience in the IT area in design, development, & automation. 
+> **DevOps, Cloud Architect,** AWS, Azure DevOps, Linux, Windows, & Networking expert. 9+ years experience in the IT area in design, development, & automation. 
 
 
 ## Skills
-> **DevOps Tools** > Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring \
- **AWS (Amazon Web Services)** > EC2 + EKS + ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces + S3 Static Website hosting \
- **Other skills** > Linux + Windows + Virtual Web hosting + WordPress + WP-Engine + cPanel + Plesk + SSL + Public DNS +	Network devices + Firewalls + AD DC User & Group + Group Policies + File & Printer Sharing + Apache + Package Management + LVMs + Database servers + Virtualization + VMWare + Citrix XenServer + Microsoft Azure Cloud Computing + ITSM + Agile
+> **DevOps Tools** > Azure DevOps, Kubernetes + Docker + Terraform + Git + Jenkins + Ansible + Server monitoring \
+ **AWS (Amazon Web Services) & Microsoft Azure** > Compute, Storage, Networking technologies and all other services. \
+ **Other skills** > Linux + Windows + Virtual Web hosting services + ITSM + Agile + EC2 + EKS + ECS + Auto Scaling + ELB + CloudFront + Elastic Cache + Route53 + Certificate Manager + Workspaces + Firewalls + AD DC User & Group + Group Policies + File & Printer Sharing + Apache + Package Management + LVMs + Database servers + Virtualization + VMWare + Citrix XenServer +
 
 
 ## Experience
