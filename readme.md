@@ -34,7 +34,7 @@ Addressing L2 production issues on AWS cloud infra. & Provisioning Workspaces.
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"}
 | _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | WFH | <font size="1">11 May 2020 - 23 Nov 2020.</font>
-| Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.
+> | Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.
 | Built & automated the process using CI/CD, Git, Jenkins & buddy.works.
 | Addressed L3 production issues & security concerns on AWS as well as L1 on Azure. 
 | Contributed to Hosted webapp on Cloud & Virtual web hosting.
