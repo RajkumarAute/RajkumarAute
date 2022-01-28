@@ -21,7 +21,7 @@
 
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"}
-| _IT Analyst_ | _**AWS Cloud Architect, DevOps**_ | Bangalore | <font size="1">1 Dec 2020 - Present</font>
+| _IT Analyst_ | _**Azure DevOps**_ | Bangalore | <font size="1">1 Dec 2020 - Present</font>
 > Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.
 \
 Using Azure DevOps, AKS, Git & Terraform to automate the creation of secured cloud infra.
@@ -29,7 +29,7 @@ Using Azure DevOps, AKS, Git & Terraform to automate the creation of secured clo
 Addressing L2 production issues on AWS cloud infra.
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"}
-| _Server Administrator | **DevOps, AWS Cloud Architect Lead**_ | WFH | <font size="1">11 May 2020 - 23 Nov 2020.</font>
+| _Server Administrator | **Cloud DevOps Architect**_ | WFH | <font size="1">11 May 2020 - 23 Nov 2020.</font>
 > Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.
 \
 Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works.
@@ -39,21 +39,21 @@ Addressed AWS & Azure L3 production issues & security concerns.
 Contributed to Hosted webapp on Cloud & Virtual web hosting.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"}
-| _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Hyderabad | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
+| _Senior System Administrator | **Cloud DevOps**_ | Hyderabad | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
 > Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services. 
 \ 
-Designed & built the AWS Cloud infra for Production, as well as taking care of L2 production issues.
+Designed & built the AWS & Azure Cloud infra for Production, as well as taking care of L2 production issues.
 \
 Supported Server virtualization, O365, & Oracle JD Edwards ERP.
 
 ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} 
-| _Executive IT | **AWS & Linux**_ | Hyderabad | <font size="1">1 Aug 2018 - 31 Aug 2019</font>
+| _Executive IT | **AWS, Linux**_ | Hyderabad | <font size="1">1 Aug 2018 - 31 Aug 2019</font>
 > Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.
 \
 Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS. 
 
 ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"}
-| _System Engineer | **AWS, Linux, Windows.**_ |  Hyderabad | <font size="1">27 Mar 2015 - 31 Jul 2017 & 11 Oct 2017 - 31 Jul 2018 (Rejoined).</font>
+| _System Engineer | **AWS, Linux, Windows**_ |  Hyderabad | <font size="1">27 Mar 2015 - 31 Jul 2017 & 11 Oct 2017 - 31 Jul 2018 (Rejoined).</font>
 > Appreciated by the clients for implementing best practises in IT service.
 \
 Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
