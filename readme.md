@@ -32,25 +32,27 @@
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"}
 > | _Server Administrator | **Cloud DevOps Architect**_ | WFH | <font size="1">11 May 2020 - 23 Nov 2020.</font>
 \ 
-Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works.
+~ Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works.
 \ 
-Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.
+~ Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.
 \
-Addressed AWS & Azure L3 production issues & security concerns. 
+~ Addressed AWS & Azure L3 production issues & security concerns. 
 \
 Contributed to Hosted webapp on Cloud & Virtual web hosting.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"}
 > | _Senior System Administrator | **Cloud DevOps**_ | Hyderabad | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
-\ Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services. 
 \ 
-Designed & built the AWS & Azure Cloud infra for Production, as well as taking care of L2 production issues.
+^ Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services. 
+\ 
+^ Designed & built the AWS & Azure Cloud infra for Production, as well as taking care of L2 production issues.
 \
-Supported Server virtualization, O365, & Oracle JD Edwards ERP.
+^ Supported Server virtualization, O365, & Oracle JD Edwards ERP.
 
 ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} 
 > | _Executive IT | **AWS, Linux**_ | Hyderabad | <font size="1">1 Aug 2018 - 31 Aug 2019</font>
-\ Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.
+\
+Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.
 \
 Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS. 
 
