@@ -20,7 +20,7 @@
 
 
 ## Experience
-### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} <font size="2">***| IT Analyst | Azure DevOps | Bangalore |***</font> <font size="1">1 Dec 2020 - Present</font>
+### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} ***<font size="2">| IT Analyst | Azure DevOps | Bangalore |</font>*** <font size="1">1 Dec 2020 - Present</font>
 > Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.
 \
 Using Azure DevOps, AKS, Git & Terraform to automate the creation of secured cloud infra.
@@ -28,7 +28,7 @@ Using Azure DevOps, AKS, Git & Terraform to automate the creation of secured clo
 Addressing L2 production issues on AWS cloud infra.
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"}
-###### | _Server Administrator | **Cloud DevOps Architect**_ | WFH | <font size="1">11 May 2020 - 23 Nov 2020.</font>
+<font size="2">| _Server Admin | **Cloud DevOps Architect**_ | WFH |</font> <font size="1">11 May 2020 - 23 Nov 2020.</font>
 > Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.
 \
 Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works.
