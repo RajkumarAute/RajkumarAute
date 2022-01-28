@@ -8,7 +8,7 @@
 <!--- ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
 
-> **DevOps, Cloud Architect,** AWS, Azure DevOps, Linux, Windows, & Networking expert. 9+ years experience in the IT area in design, automation & development. 
+**DevOps, Cloud Architect,** AWS, Azure DevOps, Linux, Windows, & Networking expert. 9+ years experience in the IT area in design, automation & development. 
 
 
 ## Skills
