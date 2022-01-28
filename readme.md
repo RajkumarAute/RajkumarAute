@@ -21,12 +21,13 @@
 
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"}
-> | _IT Analyst_ | _**Azure DevOps**_ | Bangalore | <font size="1">1 Dec 2020 - Present</font>
-\ Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.
+~ | _IT Analyst_ | _**Azure DevOps**_ | Bangalore | <font size="1">1 Dec 2020 - Present</font>
+\ 
+~ Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.
 \
-Azure DevOps, AKS, Git & Terraform using to automate the creation of secured cloud infra.
+~ Azure DevOps, AKS, Git & Terraform using to automate the creation of secured cloud infra.
 \
-Addressing L2 production issues on AWS cloud infra.
+~ Addressing L2 production issues on AWS cloud infra.
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"}
 > | _Server Administrator | **Cloud DevOps Architect**_ | WFH | <font size="1">11 May 2020 - 23 Nov 2020.</font>
