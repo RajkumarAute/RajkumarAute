@@ -38,7 +38,7 @@
 \
 ~ Addressed AWS & Azure L3 production issues & security concerns. 
 \
-Contributed to Hosted webapp on Cloud & Virtual web hosting.
+~ Contributed to Hosted webapp on Cloud & Virtual web hosting.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"}
 > | _Senior System Administrator | **Cloud DevOps**_ | Hyderabad | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
@@ -52,20 +52,21 @@ Contributed to Hosted webapp on Cloud & Virtual web hosting.
 ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} 
 > | _Executive IT | **AWS, Linux**_ | Hyderabad | <font size="1">1 Aug 2018 - 31 Aug 2019</font>
 \
-Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.
+~ Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.
 \
-Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS. 
+~ Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS. 
 
 ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"}
 > | _System Engineer | **AWS, Linux, Windows**_ |  Hyderabad | <font size="1">27 Mar 2015 - 31 Jul 2017 & 11 Oct 2017 - 31 Jul 2018 (Rejoined).</font>
-\ Appreciated by the clients for implementing best practises in IT service.
+\ 
+~ Appreciated by the clients for implementing best practises in IT service.
 \
-Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
+~ Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
 
 ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
 > | _Customer Support Engineer | **Windows & Network - Admin.**_ | <font size="1">1 Mar 2012 - 31 July 2014, & 26 Aug 2014 - 15 Mar 2015.</font> <font size="1"> </font>
 \
-Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
+~ Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
 
 ## Certifications
