@@ -48,7 +48,7 @@ Supported Server virtualization, O365, & Oracle JD Edwards ERP.
 
 ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} 
 | _Executive IT | **AWS & Linux**_ | Hyderabad | <font size="1">1 Aug 2018 - 31 Aug 2019</font>
-> Appreciated by the VP for implementing DevOps tools for automation to reduce human efforts.
+> Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.
 \
 Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS. 
 
