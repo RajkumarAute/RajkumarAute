@@ -59,8 +59,9 @@ Accomplished various Cloud Services & Achieved 98% service uptime for Billing ap
 Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
 
 ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} & <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}
-| _Customer Support Engineer | **Windows & Network - Admin.**_ | <font size="1">1 Mar 2012 - 31 July 2014, & 26 Aug 2014 - 15 Mar 2015.</font> <font size="1"> </font>
-> Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
+> | _Customer Support Engineer | **Windows & Network - Admin.**_ | <font size="1">1 Mar 2012 - 31 July 2014, & 26 Aug 2014 - 15 Mar 2015.</font> <font size="1"> </font>
+\
+Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
 
 ## Certifications
