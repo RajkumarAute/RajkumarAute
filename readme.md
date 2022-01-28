@@ -8,7 +8,7 @@
 <!--- ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
 
-**DevOps, Cloud Architect,** AWS, Azure DevOps, Linux, Windows, & Networking expert. 9+ years experience in the IT area in design, automation & development. 
+> **DevOps, Cloud Architect,** AWS, Azure DevOps, Linux, Windows, & Networking expert. 9+ years experience in the IT area in design, automation & development. 
 
 
 ## Skills
@@ -21,7 +21,6 @@
 
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"}
-\
 | _IT Analyst_ | _**Azure DevOps**_ | Bangalore | <font size="1">1 Dec 2020 - Present</font>
 > Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.
 \
