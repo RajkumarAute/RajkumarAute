@@ -16,12 +16,11 @@
 \
 ***AWS (Amazon Web Services) & Microsoft Azure*** > Cloud Compute, Storage, Network & other services. 
 \
-***Other skills*** > Linux, Windows, Virtual Web hosting services, ITSM, Agile, EC2, EKS, ECS, Auto Scaling, ELB, CloudFront, Elastic Cache, Route53, AWS Workspaces, Azure Artifacts, Azure Boards, Azure Pipelines, Azure Repos, Azure Test Plans, Firewalls, AD DC User & Group, Group Policies, File & Printer Sharing, Apache, Package Management, LVMs, Database servers, Virtualization, VMWare EXSi, Citrix XenServer.
+***Other skills*** > Linux, Windows, EC2, EKS, ECS, AKS, Azure Artifacts, Azure Boards, Azure Pipelines, Azure Repos, Azure Test Plans, Firewalls, Apache, Package Management, LVMs, Database servers, Virtualization, VMWare EXSi, Citrix XenServer, ITSM, Agile.
 
 
 ## Experience
-### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"}
-| _IT Analyst_ | _**Azure DevOps**_ | Bangalore | <font size="1">1 Dec 2020 - Present</font>
+### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} <font size="1"> | _IT Analyst_ | _**Azure DevOps**_ | Bangalore |</font> <font size="1">1 Dec 2020 - Present</font>
 > Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.
 \
 Using Azure DevOps, AKS, Git & Terraform to automate the creation of secured cloud infra.
