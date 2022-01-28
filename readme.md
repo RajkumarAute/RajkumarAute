@@ -40,7 +40,7 @@ Contributed to Hosted webapp on Cloud & Virtual web hosting.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"}
 | _Senior System Administrator | **DevOps, AWS Architect, Azure**_ | Hyderabad | <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
-> Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services.
+> Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services. 
 \ 
 Designed & built the AWS Cloud infra for Production, as well as taking care of L2 production issues.
 \
