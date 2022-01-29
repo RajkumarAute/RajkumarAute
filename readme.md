@@ -7,7 +7,7 @@
 <!--- ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
 
-> 9+ years of IT experience in ***Azure DevOps, AWS, and Azure Cloud*** architecture, automation, and deployment. 
+> 9+ years of IT experience in ***AWS, Azure DevOps Cloud*** architecture, automation, and deployment. 
 
 
 ## Skills 
