@@ -28,26 +28,22 @@ Addressing L2 production issues on AWS cloud infra.
 Addressed AWS & Azure L3 production issues & security concerns. 
 Contributed to Hosted webapp on Cloud & Virtual web hosting.
 
-> ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud DevOps | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>
-~ Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services. 
-\
-~ Designed & built the AWS & Azure Cloud infra for Production, as well as taking care of L2 production issues.
-\
-~ Supported Server virtualization, O365, & Oracle JD Edwards ERP.
+> ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud DevOps | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>  
+Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services.  
+Designed & built the AWS & Azure Cloud infra for Production, as well as taking care of L2 production issues.  
+Supported Server virtualization, O365, & Oracle JD Edwards ERP.
 
 > ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ***<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>*** <font size="1">Aug 2018 - Aug 2019</font>
-~ Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.
-\
-~ Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS. 
+Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.  
+Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS. 
 
 > ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2">System Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 - Jul 2018</font>
-~ Appreciated by the clients for implementing best practises in IT service.
-\
-~ Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
+Appreciated by the clients for implementing best practises in IT service.  
+Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
 
 > ### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"} ***<font size="2">Support Engineer | Windows,Network - Admin.</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font> 
-> ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2">Support Engineer | Windows,Network - Admin.</font>*** <font size="1">Mar 2012 - July 2014</font> <font size="1"> </font>
-~ Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
+> ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2">Support Engineer | Windows,Network - Admin.</font>*** <font size="1">Mar 2012 - July 2014</font> <font size="1"> </font>  
+Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
 
 ## Certifications
