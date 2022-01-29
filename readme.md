@@ -53,8 +53,8 @@
 \
 ~ Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
 
-> ### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"} ***<font size="2">Support Engineer | Windows,Network - Admin.</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>
-### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2">Support Engineer | Windows,Network - Admin.</font>*** <font size="1">Mar 2012 - July 2014</font> <font size="1"> </font>
+> #### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"} ***<font size="2">Support Engineer | Windows,Network - Admin.</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>
+#### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2">Support Engineer | Windows,Network - Admin.</font>*** <font size="1">Mar 2012 - July 2014</font> <font size="1"> </font>
 ~ Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
 
