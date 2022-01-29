@@ -48,7 +48,7 @@
 \
 ~ Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS. 
 
-> ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services Ltd.](http://www.3i-infotech.com){:target="_blank"} ***<font size="2">System Engineer | AWS, Linux, Windows | Hyderabad.</font>*** <font size="1">Mar 2015 - Jul 2018 (Rejoined).</font>
+> ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2">System Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 - Jul 2018 (Rejoined).</font>
 ~ Appreciated by the clients for implementing best practises in IT service.
 \
 ~ Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
