@@ -2,8 +2,7 @@
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
-<img width="" height="12" src="./image/location.jpg"> [Hyderabad](https://en.wikipedia.org/wiki/Hyderabad){:target="_blank"} <font size="0">(I'm looking for a Kubernetes DevOps AWS role in Hyderabad.)</font>
-\
+<img width="" height="12" src="./image/location.jpg"> [Hyderabad](https://en.wikipedia.org/wiki/Hyderabad){:target="_blank"} <!--<font size="0">(I'm looking for a Kubernetes DevOps AWS role in Hyderabad.)</font> -->
 <img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ <img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"}
 <!--- ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
@@ -68,4 +67,3 @@ Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Pr
 
 #### Honors & Awards
 > National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi.
-<p>`r format(Sys.Date(), "%d. %B %Y")`</p>
