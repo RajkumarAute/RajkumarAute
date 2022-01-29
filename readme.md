@@ -12,18 +12,15 @@
 
 
 ## Skills 
-> ___DevOps Tools___ > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring
-\
+> ___DevOps Tools___ > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring  
 ___AWS (Amazon Web Services) & Microsoft Azure___ > Cloud Compute, Storage, Network & other services.  
 ___Other skills___ > Linux, Windows, EC2, EKS, ECS, AKS, Azure Artifacts, Azure Boards, Azure Pipelines, Azure Repos, Azure Test Plans, Firewalls, Apache, Package Management, LVMs, Database servers, Virtualization, VMWare EXSi, Citrix XenServer, ITSM, Agile.
 
 ## Experience
-> ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Azure DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font> 
-~ Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.
-\
-~ Azure DevOps, AKS, Git & Terraform using to automate the creation of secured cloud infra.
-\
-~ Addressing L2 production issues on AWS cloud infra.
+> ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Azure DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
+Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
+Azure DevOps, AKS, Git & Terraform using to automate the creation of secured cloud infra.  
+Addressing L2 production issues on AWS cloud infra.  
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>
 ~ Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works.
