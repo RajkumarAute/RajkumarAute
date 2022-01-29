@@ -68,6 +68,4 @@ Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Pr
 
 #### Honors & Awards
 > National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi.
-
-date: "`r format(Sys.time(), '%d %B, %Y')`"  
-date: `r format(Sys.Date(), "%d. %B %Y")`
+<p>`r format(Sys.Date(), "%d. %B %Y")`</p>
