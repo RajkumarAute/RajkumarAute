@@ -23,8 +23,8 @@ Azure DevOps, AKS, Git & Terraform using to automate the creation of secured clo
 Addressing L2 production issues on AWS cloud infra.  
 
 > ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
-- Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works.  
-- Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.  
+Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works.  
+Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.  
 Addressed AWS & Azure L3 production issues & security concerns. 
 Contributed to Hosted webapp on Cloud & Virtual web hosting.
 
@@ -67,4 +67,6 @@ Handled DC Servers, Routers, Switches, Network applications, Users & Groups.
 
 
 #### Honors & Awards
-> _National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi._
+> National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi.
+
+date: "`r format(Sys.time(), '%d %B, %Y')`"
