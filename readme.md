@@ -12,11 +12,10 @@
 
 
 ## Skills 
-> <font size="2">***DevOps Tools*** > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring
-\
-***AWS (Amazon Web Services) & Microsoft Azure*** > Cloud Compute, Storage, Network & other services. 
-\
-***Other skills*** > Linux, Windows, EC2, EKS, ECS, AKS, Azure Artifacts, Azure Boards, Azure Pipelines, Azure Repos, Azure Test Plans, Firewalls, Apache, Package Management, LVMs, Database servers, Virtualization, VMWare EXSi, Citrix XenServer, ITSM, Agile.</font>
+> <font size="2">
+- ___DevOps Tools___ > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring
+- ___AWS (Amazon Web Services) & Microsoft Azure___ > Cloud Compute, Storage, Network & other services. 
+- ___Other skills___ > Linux, Windows, EC2, EKS, ECS, AKS, Azure Artifacts, Azure Boards, Azure Pipelines, Azure Repos, Azure Test Plans, Firewalls, Apache, Package Management, LVMs, Database servers, Virtualization, VMWare EXSi, Citrix XenServer, ITSM, Agile.</font>
 
 ## Experience
 > ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Azure DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font> 
