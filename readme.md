@@ -24,7 +24,7 @@ Contrubuted to build CI/CD entironment using Azure DevOps, AKS, Git & Terraform.
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Addressed AWS L3 production issues & security concerns as well as Azure L1.  
-Contributed to Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works.  
+Contributed to Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works. &
 Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra, Hosted webapp on Cloud & Virtual web hosting.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud DevOps | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>  
