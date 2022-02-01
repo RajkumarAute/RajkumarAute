@@ -1,4 +1,4 @@
-<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(I'm intrested in Azure DevOps, Kubernetes AWS role in Hyderabad.)</font>
+<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(I'm looking job on Kubernetes, EKS, AKS, Azure DevOps, AWS role in Hyderabad.)</font>
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
@@ -13,29 +13,28 @@
 
 ## Skills 
 > ___DevOps Tools___ > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring  
-___AWS (Amazon Web Services) & Microsoft Azure___ > Cloud Compute, Storage, Network & other services.  
+___AWS (Amazon Web Services) & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis Route53.  
 ___Other skills___ > Linux, Windows, EKS, ECS, AKS, Firewalls, LVMs, Database servers, Virtualization, VMWare EXSi, Citrix XenServer, ITSM, Agile.
 
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Azure DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
 > Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
-Azure DevOps, AKS, Git & Terraform using to automate the creation of secured cloud infra.  
 Addressing L2 production issues on AWS cloud infra.  
+Contrubuted to build CI/CD entironment using Azure DevOps, AKS, Git & Terraform.
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
-> Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works.  
-Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra.  
-Addressed AWS & Azure L3 production issues & security concerns. 
-Contributed to Hosted webapp on Cloud & Virtual web hosting.
+> Addressed AWS L3 production issues & security concerns as well as Azure L1.  
+Contributed to Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works.  
+Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra, Hosted webapp on Cloud & Virtual web hosting.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud DevOps | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>  
-> Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services.  
-Designed & built the AWS & Azure Cloud infra for Production, as well as taking care of L2 production issues.  
+> Designed & built the AWS & Azure Cloud infra for Production, as well as taking care of L2 production issues.  
+Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services.  
 Supported Server virtualization, O365, & Oracle JD Edwards ERP.
 
 ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ***<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>*** <font size="1">Aug 2018 - Aug 2019</font>
 > Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.  
-Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS. 
+Administrated the Cloud infra & Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS.
 
 ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2">System Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 - Jul 2018</font>
 > Appreciated by the clients for implementing best practises in IT service.  
