@@ -8,27 +8,25 @@
 <!--- ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
 
-> 9+ years of IT experience in ***DevOps, AWS, Azure DevOps Cloud*** architecture, automation, and deployment. 
-
+> With 9+ years' experience in the IT industry, including 4+ years in Cloud Computing, DevOps, Amazon Web Services, Azure DevOps, and a background in the design, implementation, and delivery of websites and applications.
 
 ## Skills 
 > ___DevOps Tools___ > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring  
-___AWS (Amazon Web Services) & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis Route53.  
-___Other skills___ > Linux, Windows, EKS, ECS, AKS, Firewalls, LVMs, Database servers, Virtualization, VMWare EXSi, Citrix XenServer, ITSM, Agile.
+___AWS (Amazon Web Services) & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53.  
+___Other skills___ > Linux, Windows, EKS, ECS, AKS, Firewalls, LVMs, Database servers, VMWare EXSi, Citrix XenServer, ITSM, Agile.
 
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Azure DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
-> Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
-Addressing L2 production issues on AWS cloud infra.  
+> Addressing L2 production issues on AWS cloud infra.  
 Contrubuted to build CI/CD entironment using Azure DevOps, AKS, Git & Terraform.
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
-> Addressed AWS L3 production issues & security concerns as well as Azure L1.  
+> Addressed AWS L3 production issues & cybersecurity concerns as well as Azure L1.  
 Contributed to Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works. &
-Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build AWS infra, Hosted webapp on Cloud & Virtual web hosting.
+Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build cloud infrastructure, Hosted webapp on Cloud & Virtual web hosting.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud DevOps | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>  
-> Designed & built the AWS & Azure Cloud infra for Production, as well as taking care of L2 production issues.  
+> Designed & built the AWS & Azure Cloud infrastructure for Production, as well as taking care of L2 production issues.  
 Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services.  
 Supported Server virtualization, O365, & Oracle JD Edwards ERP.
 
@@ -62,4 +60,6 @@ Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Pr
 <!-- <img width="" height="15" src="./image/gug.jpg"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016 -->
 
 #### Honors & Awards
-> National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi.
+> [TCS](http://www.tcs.com) Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
+[WHL.](http://www.wonderla.com) Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.  
+National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi.
