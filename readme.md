@@ -36,7 +36,7 @@ Supported Server virtualization, O365, & Oracle JD Edwards ERP.
 > Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.  
 Administrated the Cloud infra & Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS.
 
-### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2">System Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 - Jul 2018</font>
+### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2">System Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 - Jul 2017 & Oct 2017 - Jul 2018</font>
 > Appreciated by the clients for implementing best practises in IT service.  
 Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
 
@@ -56,14 +56,10 @@ Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Pr
 
 
 ## Education
-> <img width="" height="15" src="./image/gug.jpg"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016
-\
-<img width="" height="15" src="./image/gug.jpg"> **Bachelor of Commerce** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 69.84% in 2013
-\
-<img width="" height="15" src="./image/kar.png"> **[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/){:target="_blank"} 10+2** with 49% in 2009
-\
+> <img width="" height="15" src="./image/gug.jpg"> **Bachelor of Commerce** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 69.84% in 2013  
+<img width="" height="15" src="./image/kar.png"> **[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/){:target="_blank"} 10+2** with 49% in 2009  
 <img width="" height="15" src="./image/kar.png"> **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
-
+<!-- <img width="" height="15" src="./image/gug.jpg"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016 -->
 
 #### Honors & Awards
 > National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi.
