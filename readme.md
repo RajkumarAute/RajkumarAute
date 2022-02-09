@@ -18,10 +18,10 @@ ___Other skills___ > Linux, Windows, EKS, ECS, AKS, Firewalls, LVMs, Database se
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Azure DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
 > Addressing L2 production issues on AWS cloud infra.  
-Contrubuted to build CI/CD entironment using Azure DevOps, AKS, Git & Terraform.
+Contrubuted to build CI/CD entironment using Azure DevOps, EKS, AKS, Git & Terraform.
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
-> Addressed AWS L3 production issues & cybersecurity concerns as well as Azure L1.  
+> Addressed AWS L3 production issues & security concerns as well as Azure L1.  
 Contributed to Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works. &
 Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build cloud infrastructure, Hosted webapp on Cloud & Virtual web hosting.
 
