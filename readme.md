@@ -11,7 +11,7 @@
 > With 9+ years' experience in the IT industry, including 4+ years in ***DevOps, Amazon Web Services, Azure DevOps, Cloud Computing*** and a background in the design, implementation, and delivery of websites and applications.
 
 ## Skills 
-> ___DevOps Tools___ > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring  
+> ___DevOps Tools___ > Kubernetes, Docker, Terraform, Git, Jenkins, Azure DevOps, Ansible, Monitoring  
 ___AWS (Amazon Web Services) & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53.  
 ___Other skills___ > Linux, Windows, EKS, ECS, AKS, Firewalls, LVMs, Database servers, VMWare EXSi, Citrix XenServer, ITSM, Agile.
 
