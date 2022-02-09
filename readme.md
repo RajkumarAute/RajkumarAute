@@ -8,7 +8,7 @@
 <!--- ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
 
-> With 9+ years' experience in the IT industry, including 4+ years in ***Cloud Computing, DevOps, Amazon Web Services, Azure DevOps,*** and a background in the design, implementation, and delivery of websites and applications.
+> With 9+ years' experience in the IT industry, including 4+ years in ***DevOps, Amazon Web Services, Azure DevOps, Cloud Computing*** and a background in the design, implementation, and delivery of websites and applications.
 
 ## Skills 
 > ___DevOps Tools___ > Azure DevOps, Kubernetes, Docker, Terraform, Git, Jenkins, Ansible, Monitoring  
