@@ -1,4 +1,4 @@
-<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Kubernetes, EKS, AKS, AWS, Azure DevOps.)</font>
+<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Kubernetes on cloud, AWS EKS, Azure DevOps AKS)</font>
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
@@ -11,7 +11,7 @@
 > With 9+ years' experience in the IT industry, including 4+ years in ***DevOps, Amazon Web Services, Azure DevOps, Cloud Computing*** and a background in the design, implementation, and delivery of websites and applications.
 
 ## Skills 
-> ___DevOps Tools___ > Kubernetes, Docker, Terraform, Git, Jenkins, Azure DevOps, Ansible, Monitoring  
+> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, Azure DevOps, Ansible, Monitoring  
 ___AWS (Amazon Web Services) & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53, AKS.  
 ___Other skills___ > Linux, Windows, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
@@ -22,8 +22,8 @@ Contrubuted to build CI/CD entironment using Azure DevOps, EKS, AKS, Git & Terra
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Addressed AWS L3 production issues & security concerns as well as Azure L1.  
-Contributed to Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works. &
-Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra & Terraform used to build cloud infrastructure, Hosted webapp on Cloud & Virtual web hosting.
+Built containerization Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra  
+Contributed to Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works. & Terraform used to build cloud infrastructure, Hosted webapp on Cloud & Virtual web hosting.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud DevOps | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>  
 > Designed & built the AWS & Azure Cloud infrastructure for Production, as well as taking care of L2 production issues.  
