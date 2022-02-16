@@ -16,7 +16,7 @@ ___AWS (Amazon Web Services) & Microsoft Azure___ > Cloud Compute, Storage, Netw
 ___Other skills___ > Linux, Windows, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
 ## Experience
-### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Azure DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
+### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Cloud DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
 > Addressing L2 production issues on AWS cloud infra.  
 Contrubuted to build CI/CD entironment using Azure DevOps, EKS, AKS, Git & Terraform.
 
