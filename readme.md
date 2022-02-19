@@ -55,8 +55,9 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 <img width="" height="15" src="./image/kar.png"> **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
 <!-- <img width="" height="15" src="./image/gug.jpg"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016 -->
 
+
 #### Honors & Awards
 > [TCS](http://www.tcs.com) Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
 [WHL.](http://www.wonderla.com) Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.  
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practises in IT service.  
-National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi.
+National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp held in Delhi-2005.
