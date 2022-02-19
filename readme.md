@@ -22,21 +22,20 @@ Contrubuted to build CI/CD entironment using Azure DevOps, EKS, AKS, Git & Terra
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Addressed AWS L3 production issues & security concerns as well as Azure L1.  
-Built containerization Kubernetes, AWS EKS, ECS, & Docker tools are used to build containerized infra  
-Contributed to Built & automated the CI/CD process using Azure DevOps, Git, Jenkins & buddy.works. & Terraform used to build cloud infrastructure, Hosted webapp on Cloud & Virtual web hosting.
+Kubernetes, AWS EKS, ECS, & Docker are used to build containerized applications.  
+Contributed to Built & automated the CI/CD pipeline using Azure DevOps, Jenkins, buddy.works, Git & Terraform is used to build cloud infrastructure.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud DevOps | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>  
 > Designed & built the AWS & Azure Cloud infrastructure for Production, as well as taking care of L2 production issues.  
-Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application & services.  
+Git & Jenkins are used to build a CI/CD pipeline for automating deployment of the containerized application.  
 Supported Server virtualization, O365, & Oracle JD Edwards ERP.
 
 ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ***<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>*** <font size="1">Aug 2018 - Aug 2019</font>
-> Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.  
-Administrated the Cloud infra & Accomplished various Cloud Services & Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS.
+> Administrated the Cloud infra & Accomplished various Cloud Services  
+Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS cloud.
 
 ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2">System Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 - Jul 2017 & Oct 2017 - Jul 2018</font>
-> Appreciated by the clients for implementing best practises in IT service.  
-Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
+> Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
 
 ### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"} ***<font size="2">Support Engineer | Windows,Network - Admin.</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font> 
 ### <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2">Support Engineer | Windows,Network - Admin.</font>*** <font size="1">Mar 2012 - July 2014</font> <font size="1"> </font>  
@@ -62,4 +61,5 @@ Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Pr
 #### Honors & Awards
 > [TCS](http://www.tcs.com) Achieved [__Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
 [WHL.](http://www.wonderla.com) Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.  
+[3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practises in IT service.  
 National Level, Gold Medal in Snap shooting - NCC / Indian Army Sep 2005 in Snap shooting NCC Thal Sainik Computation Camp in Delhi.
