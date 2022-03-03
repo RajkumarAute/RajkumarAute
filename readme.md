@@ -8,7 +8,7 @@
 <!--- ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
 
-> With 9+ years' experience in the IT industry, including 4+ years in ***DevOps, Amazon Web Services, Azure DevOps, Cloud Computing*** and a background in the design, implementation, and delivery of websites and applications. **Job aspiration Cloud-based Kubernetes (AWS-EKS, Azure-AKS)**
+> With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Computing, Kubernetes, Terraform, DevOps*** and a background in the design, implementation, and delivery of websites and applications. **Job aspiration Cloud-based Kubernetes (AWS-EKS, Azure-AKS)**
 
 ## Skills 
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, Azure DevOps, Monitoring  
