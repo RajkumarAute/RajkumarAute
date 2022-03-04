@@ -17,12 +17,11 @@ ___Other skills___ > Linux, Windows, Ansible, Firewalls, LVMs, Database servers,
 
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Cloud DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
-> Addressing L2 production issues on AWS cloud infra.  
+> Leading application migration to Cloud project, AWS cloud using Terraform and Azure DevOps. Addressing L2 production issues on AWS cloud infra.  
 Contrubuted to build CI/CD entironment using Azure DevOps, EKS, AKS, Git & Terraform.
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Lead Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
-> Leading application migration to Cloud project, AWS cloud using Terraform and Azure DevOps.
-Addressed AWS L3 production issues & security concerns as well as Azure L1.  
+> Addressed AWS L3 production issues & security concerns as well as Azure L1.  
 Kubernetes, AWS EKS, ECS, & Docker are used to build containerized applications.  
 Contributed to Built & automated the CI/CD pipeline using Azure DevOps, Jenkins, buddy.works, Git & Terraform is used to build cloud infrastructure.
 
