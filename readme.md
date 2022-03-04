@@ -20,8 +20,9 @@ ___Other skills___ > Linux, Windows, Ansible, Firewalls, LVMs, Database servers,
 > Addressing L2 production issues on AWS cloud infra.  
 Contrubuted to build CI/CD entironment using Azure DevOps, EKS, AKS, Git & Terraform.
 
-### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
-> Addressed AWS L3 production issues & security concerns as well as Azure L1.  
+### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Lead Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
+> Leading application migration to Cloud project, AWS cloud using Terraform and Azure DevOps.
+Addressed AWS L3 production issues & security concerns as well as Azure L1.  
 Kubernetes, AWS EKS, ECS, & Docker are used to build containerized applications.  
 Contributed to Built & automated the CI/CD pipeline using Azure DevOps, Jenkins, buddy.works, Git & Terraform is used to build cloud infrastructure.
 
