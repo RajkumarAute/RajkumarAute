@@ -22,7 +22,7 @@ Addressed L2 production issues on AWS cloud infra. & Contrubuted to build CI/CD 
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Lead Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Addressed AWS L3 production issues & security concerns as well as Azure L1.  
-Kubernetes, AWS EKS, ECS, & Docker are used to build & migrating containerized applications.  
+Kubernetes, AWS EKS, ECS, & Docker are used to build & migrate containerized applications.  
 Contributed to Built & automated the CI/CD pipeline using Azure DevOps, Jenkins, buddy.works, Git & Terraform is used to build cloud infrastructure.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud DevOps | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>  
