@@ -12,7 +12,7 @@
 
 ## Skills 
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, Azure DevOps, Monitoring  
-___AWS (Amazon Web Services) & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53, AKS.  
+___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53, AKS.  
 ___Other skills___ > Linux, Windows, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
 ## Experience
