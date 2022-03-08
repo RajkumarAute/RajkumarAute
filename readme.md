@@ -1,4 +1,4 @@
-<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Kubernetes on cloud, AWS EKS, Azure DevOps AKS)</font>
+<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Kubernetes on cloud, EKS, AKS)</font>
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
@@ -11,14 +11,14 @@
 > With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Computing, Kubernetes, Terraform, DevOps*** and a background in the design, implementation, and delivery of websites and applications. **Job aspiration Kubernetes - Cloud based (AWS-EKS, Azure-AKS)**
 
 ## Skills 
-> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, Azure DevOps, Monitoring  
-___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53, AKS.  
+> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, Monitoring  
+___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53.  
 ___Other skills___ > Linux, Windows, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Cloud DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
 > Leading the team, application migration to AWS cloud using Terraform and Azure DevOps.  
-Addressed L2 production issues on AWS cloud infra. & Contrubuted to build CI/CD entironment using Azure DevOps, EKS, AKS, Git & Terraform. 
+Addressed L2 production issues on AWS cloud infra. & Contrubuted to build CI/CD entironment using Azure DevOps, EKS, Git & Terraform. 
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Lead Cloud DevOps Architect | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Addressed AWS L3 production issues & security concerns as well as Azure L1.  
