@@ -25,7 +25,7 @@ Addressed L2 production issues on AWS cloud infra. & Contributed to build CI/CD 
 Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker are used to build & migrate containerized applications. & CI/CD pipeline using Azure DevOps, Jenkins, buddy.works, Git & Terraform is used to build cloud infrastructure.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>  
-> Addressed AWS L2 & Azure L1 production issues.  
+> Designed and built cloud infra and Addressed AWS L2 & Azure L1 production issues.  
 Contributed to Built & automate CI/CD pipeline, Git & Jenkins are used to build a containerized application, virtualization, O365, & Oracle JD Edwards ERP.
 
 ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ***<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>*** <font size="1">Aug 2018 - Aug 2019</font>
