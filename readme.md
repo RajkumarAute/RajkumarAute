@@ -17,15 +17,15 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Cloud DevOps Architect | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
-> Leading the team, application migration to AWS cloud using Terraform and Azure DevOps.  
-Addressed L2 production issues on AWS cloud infra. & Contrubuted to build CI/CD entironment using Azure DevOps, EKS, Git & Terraform. 
+> Team lead, application migration to AWS cloud using Terraform and Azure DevOps.  
+Addressed L2 production issues on AWS cloud infra. & Contributed to build CI/CD environment using Azure DevOps, Kubernetes, EKS, Git & Terraform. 
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
-> Addressed AWS L3 production issues & security concerns as well as Azure L1.  
+> Designed & built the AWS & Azure Cloud infrastructure for Production & Addressed AWS L3 production issues & security concerns as well as Azure L1.  
 Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker are used to build & migrate containerized applications. & CI/CD pipeline using Azure DevOps, Jenkins, buddy.works, Git & Terraform is used to build cloud infrastructure.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>  
-> Designed & built the AWS & Azure Cloud infrastructure for Production, as well as taking care of L2 production issues.  
+> Addressed AWS L2 & Azure L1 production issues.  
 Contributed to Built & automate CI/CD pipeline, Git & Jenkins are used to build a containerized application. & Supported Server virtualization, O365, & Oracle JD Edwards ERP.
 
 ### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ***<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>*** <font size="1">Aug 2018 - Aug 2019</font>
