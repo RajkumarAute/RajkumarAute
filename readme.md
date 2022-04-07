@@ -18,11 +18,11 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 ## Experience
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
 > Team lead, application migration to AWS cloud using Terraform and Azure DevOps.  
-Addressed L2 production issues on AWS cloud infra. & Contributed to build CI/CD environment using Azure DevOps, Git & Terraform. 
+Addressed L2 production issues on AWS cloud infra. & Contributed to build CI/CD pipeline, Git & Terraform. 
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Designed & built the AWS & Azure Cloud infrastructure for Production & Addressed AWS L3 production issues & security concerns as well as Azure L1.  
-Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker are used to build & migrate containerized applications. & CI/CD pipeline using Azure DevOps, Jenkins, buddy.works, Git & Terraform is used to build cloud infrastructure.
+Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker are used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform is used to build cloud infrastructure.
 
 ### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>**_ <font size="1">3 Sep 2019 - 20 Apr 2020.</font>  
 > Designed and built cloud infra and Addressed AWS L2 & Azure L1 production issues.  
