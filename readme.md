@@ -1,7 +1,4 @@
-<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> 
-<!---
-<font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font>
---->
+<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr>  <!--- <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
 
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
@@ -15,7 +12,7 @@
 > With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Computing Kubernetes, Terraform, DevOps*** and a background in the design, implementation, and delivery of websites and applications. <!--- **Job aspiration Kubernetes - Cloud based (AWS-EKS, Azure-AKS)** --->
 
 ## Skills 
-> <img width="" height="12" src="./image/devops.png"> ___DevOps Tools___ > Kubernetes, EKS, Docker, Terraform, Git, Jenkins, Monitoring.  
+> <img width="" height="12" src="./image/devops.png"> ___DevOps Tools___ > Kubernetes, EKS, Docker, Terraform, Git, Jenkins, Azure DevOps, Monitoring.  
 <img width="" height="12" src="./image/cloud.webp"> ___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services as well.  
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
