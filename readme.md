@@ -16,9 +16,12 @@
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
 ## Experience
-### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - Present</font>  
+### <img width="" height="18" src="./image/ibm.jpg"> [IBM India Private Limited](https://www.ibm.com/in-en){:target="_blank"} _**<font size="2">Application Developer, Cloud DevOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
+> 
+
+### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst |Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
 > Team lead, application migration to AWS cloud using Terraform and Azure DevOps.  
-Addressed L2 production issues on AWS cloud infra. & Contributed to build CI/CD pipeline, Git & Terraform. 
+Lead Cloud Architect and Addressed L2 production issues on AWS cloud infra. & Contributed to build CI/CD pipeline, Git & Terraform. 
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Designed & built the AWS & Azure Cloud infrastructure for Production & Addressed AWS L3 production issues & security concerns as well as Azure L1.  
