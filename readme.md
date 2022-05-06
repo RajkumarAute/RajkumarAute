@@ -1,4 +1,8 @@
-<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font>
+<abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> 
+<!---
+<font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font>
+--->
+
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
@@ -8,7 +12,7 @@
 <!--- ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
 
-> With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Computing Kubernetes, Terraform, DevOps*** and a background in the design, implementation, and delivery of websites and applications. **Job aspiration Kubernetes - Cloud based (AWS-EKS, Azure-AKS)**
+> With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Computing Kubernetes, Terraform, DevOps*** and a background in the design, implementation, and delivery of websites and applications. <!--- **Job aspiration Kubernetes - Cloud based (AWS-EKS, Azure-AKS)** --->
 
 ## Skills 
 > <img width="" height="12" src="./image/devops.png"> ___DevOps Tools___ > Kubernetes, EKS, Docker, Terraform, Git, Jenkins, Monitoring.  
@@ -35,7 +39,7 @@ Contributed to Built & automate CI/CD pipeline, Git & Jenkins used to build a co
 > Administrated the Cloud infra & Accomplished various Cloud Services  
 Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS cloud.
 
-### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2">System Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 - Jul 2017 & Oct 2017 - Jul 2018</font>
+### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2">System Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 <!--- - Jul 2017 & Oct 2017 ---> - Jul 2018</font>
 > Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
 
 ### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"} ***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>
