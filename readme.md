@@ -2,7 +2,7 @@
 \
 <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
-<img width="" height="12" src="./image/location.jpg"> [Hyderabad (WFH-Gulbarga)](){:target="_blank"}
+<img width="" height="12" src="./image/location.jpg"> [Bangalore (WFH-Gulbarga)](){:target="_blank"}
 \
 <img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ <img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"}
 <!--- ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
@@ -38,7 +38,7 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2">System Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 <!--- - Jul 2017 & Oct 2017 ---> - Jul 2018</font>
 > Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
 
-### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}<!---***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---><img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2">  Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Mar 2012 - <!---July 2014--->Mar 2015</font> <font size="1"> </font>  
+### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}<!---***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2">  Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Mar 2012 - <!---July 2014--->Mar 2015</font> <font size="1"> </font>  
 > Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
 
