@@ -59,4 +59,4 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 [WHL.](http://www.wonderla.com) Appreciated by the VP for implementing DevOps tools to automate the CI/CD process to save time & effort.  
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practises in IT service.  
 <img width="" height="12" src="./image/ncc.png"> National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
-latest résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}
+*** latest résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}***
