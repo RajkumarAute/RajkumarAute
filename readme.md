@@ -17,8 +17,8 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 ### <img width="" height="18" src="./image/ibm.jpg"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
 > 
 
-### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst |Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
-> Migration Lead, Application migrated to AWS and Azure cloud using Terraform and Azure DevOps.  
+### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
+> Application migrated to AWS and Azure cloud using Terraform and Azure DevOps.  
 Lead Cloud Architect and Handle L2 production issues on AWS cloud infra. & Contributed to build CI/CD pipeline, Git & Terraform. 
 
 ### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
@@ -36,7 +36,7 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 ### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2"> Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 <!--- - Jul 2017 & Oct 2017 ---> - Jul 2018</font>
 > Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
 
-### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}<!---***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> & <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2"> Engineer| Clients-MAFIL</font>*** <font size="1">Mar 2012 - <!---July 2014--->Mar 2015</font> <font size="1"> </font>  
+### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}<!---***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> & <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2"> Engineer | Clients-MAFIL</font>*** <font size="1">Mar 2012 - <!---July 2014--->Mar 2015</font> <font size="1"> </font>  
 > Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
 
@@ -60,4 +60,4 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practises in IT service.  
 <img width="" height="12" src="./image/ncc.png"> National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
-###### ** latest résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}**
+###### latest résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}
