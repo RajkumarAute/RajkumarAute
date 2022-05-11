@@ -60,4 +60,4 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practises in IT service.  
 <img width="" height="12" src="./image/ncc.png"> National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
-###### https://Rajkumar-Aute.github.io/Rajkumar-Aute  
+###### latest résumé https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}
