@@ -8,12 +8,12 @@
 
 > With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Architect, Kubernetes, Terraform, Cloud DevOps*** and a background in the design, implementation, and delivery of websites and applications. **Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps.**
 
-## Skills
+### Skills
 > <img width="" height="12" src="./image/devops.png"> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
 <img width="" height="12" src="./image/cloud.webp"> ___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services as well.  
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
-## Experience
+### Experience
 ### <img width="" height="18" src="./image/ibm.jpg"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
 > Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps.
 
@@ -40,14 +40,14 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 > Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
 
-## Certifications
+### Certifications
 > <img width="" height="12" src="./image/aws.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
 <img width="" height="12" src="./image/azure.jpg"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
 <img width="" height="11" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Apr 2020 - Oct 2021</font>  
 <img width="" height="12" src="./image/redhat.png"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font>  
 
 
-## Education
+### Education
 > <img width="" height="15" src="./image/gug.jpg"> **Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 69.84% in 2013  
 <img width="" height="15" src="./image/kar.png"> **[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/){:target="_blank"} 10+2** with 49% in 2009  
 <img width="" height="15" src="./image/kar.png"> **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
