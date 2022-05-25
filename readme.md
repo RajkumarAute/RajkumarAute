@@ -1,15 +1,15 @@
 <!--- <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
-<img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
-<img width="" height="12" src="./image/gmail.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
-<img width="" height="12" src="./image/location.jpg"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
-<img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ <img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"}
-<!--- ~ <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
+<img width="" height="12" src="./image/call.svg"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
+<img width="" height="12" src="./image/gmail.svg"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
+<img width="" height="12" src="./image/location.svg"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
+<img width="" height="12" src="./image/github.svg">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ <img width="" height="12" src="./image/linkedin.svg">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"}
+<!--- ~ <img width="" height="12" src="./image/www.svg"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
 
 > With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Architect, Kubernetes, Terraform, Cloud DevOps*** and a background in the design, implementation, and delivery of websites and applications. **Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps.**
 
 ### Skills
-> <img width="" height="12" src="./image/devops.png"> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
+> <img width="" height="12" src="./image/devops.svg"> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
 <img width="" height="12" src="./image/cloud.webp"> ___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services as well.  
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
@@ -17,7 +17,7 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 ### <img width="" height="18" src="./image/ibm.svg"> [***International Business Machines***](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
 > Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps.
 
-### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
+### <img width="" height="18" src="./image/tcs.svg"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
 > Application migrated to AWS and Azure cloud using Terraform and Azure DevOps.  
 Lead Cloud Architect and Handle L2 production issues on AWS cloud infra. & Contributed to build CI/CD pipeline, Git & Terraform. 
 
@@ -41,10 +41,10 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 
 
 ### Certifications
-> <img width="" height="12" src="./image/aws.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
-<img width="" height="12" src="./image/azure.jpg"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
-<img width="" height="11" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Apr 2020 - Oct 2021</font>  
-<img width="" height="12" src="./image/redhat.png"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font>  
+> <img width="" height="12" src="./image/aws.svg"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
+<img width="" height="12" src="./image/azure.svg"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
+<img width="" height="11" src="./image/oracle.svg"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Apr 2020 - Oct 2021</font>  
+<img width="" height="12" src="./image/redhat.svg"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font>  
 
 
 ### Education
