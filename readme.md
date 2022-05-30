@@ -59,7 +59,7 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 <img width="" height="12" src="./image/ncc.png"> National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
 latest résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}
-</abbr> <font size="0"><img width="" height="12" src="./image/github.gif">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ <img width="" height="12" src="./image/linkedin.webp">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"}
+<img width="" height="12" src="./image/github.gif">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"} ~ 
+<img width="" height="12" src="./image/linkedin.webp">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ 
 <!--- ~ <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
-</font>
