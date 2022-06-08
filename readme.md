@@ -59,8 +59,8 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 ###### More About me - latest résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} ~ <img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ <img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"}
 <!--- ~ <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
-<img width="" height="100" src="./image/AWS_Architect_Associate.png">
-<img width="" height="100" src="./image/azure-administrator-associate-600x600.png">
-<img width="" height="100" src="./image/Oracle_Cloud_Infrastructure_Foundations_Associate.png">
-<img width="" height="100" src="./image/redhat.png">
-<img width="" height="100" src="./image/IBM_Garage_Essentials.png">
+<img width="" height="80" src="./image/AWS_Architect_Associate.png">
+<img width="" height="80" src="./image/azure-administrator-associate-600x600.png">
+<img width="" height="80" src="./image/Oracle_Cloud_Infrastructure_Foundations_Associate.png">
+<img width="" height="80" src="./image/redhat.png">
+<img width="" height="80" src="./image/IBM_Garage_Essentials.png">
