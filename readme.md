@@ -37,11 +37,11 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 > Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
 ### Learning curve (Certifications)
-> <img width="" height="12" src="./image/aws.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
-<img width="" height="20" src="./image/azure-administrator-associate-600x600.png"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
+> <img width="" height="25" src="./image/AWS_Architect_Associate.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
+<img width="" height="25" src="./image/azure-administrator-associate-600x600.png"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
 <img width="" height="11" src="./image/oracle.png"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Apr 2020 - Oct 2021</font>  
-<img width="" height="20" src="./image/redhat.png"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font>  
-<img width="" height="20" src="./image/IBM_Garage_Essentials.png"> [**IBM Garage Essentials**](https://www.credly.com/badges/07bcd366-73cc-48a3-be98-d7be94a50c73/public_url){:target="_blank"}<font size="1"> ~ 2022</font>
+<img width="" height="12" src="./image/redhat.png"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font>  
+<img width="" height="25" src="./image/IBM_Garage_Essentials.png"> [**IBM Garage Essentials**](https://www.credly.com/badges/07bcd366-73cc-48a3-be98-d7be94a50c73/public_url){:target="_blank"}<font size="1"> ~ 2022</font>
 
 
 ### By the book (Education)
