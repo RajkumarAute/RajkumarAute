@@ -56,7 +56,7 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practises in IT service.  
 <img width="" height="12" src="./image/ncc.png"> National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
-###### More About me - latest résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} ~ <img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ <img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"}
+###### More About me - résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} ~ <img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ <img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"}
 <!--- ~ <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
 -->
 <img width="" height="80" src="./image/AWS_Architect_Associate.png">
