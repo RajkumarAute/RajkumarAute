@@ -46,16 +46,16 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 <img width="" height="30" src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"> [**Enterprise Design Thinking Practitioner**](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395/public_url){:target="_blank"}<font size="1"> ~ 2022</font>  
 
 ### By the book (Education)
-> <img width="" height="15" src="./image/gug.jpg"> **Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 69.84% in 2013  
-<img width="" height="15" src="./image/kar.png"> **[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/){:target="_blank"} 10+2** with 49% in 2009  
-<img width="" height="15" src="./image/kar.png"> **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
-<!-- <img width="" height="15" src="./image/gug.jpg"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016 -->
+>**Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 69.84% in 2013  
+**[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/){:target="_blank"} 10+2** with 49% in 2009  
+**[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
+<!-- <img width="" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Seal_of_Karnataka.svg/1024px-Seal_of_Karnataka.svg.png"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016 -->
 
 #### Win-Win (Honors & Awards)
 > [TCS](http://www.tcs.com) Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
 [WHL.](http://www.wonderla.com) Appreciated by the VP IT.  
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practises in IT service.  
-<img width="" height="12" src="./image/ncc.png"> National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
+National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
 ###### More About me - résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} ~ <img width="" height="12" src="./image/linkedin.png">[/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} ~ <img width="" height="12" src="./image/github.png">[/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"}
 <!--- ~ <img width="" height="12" src="./image/www.png"> [Rajkumar-Aute.tk](http://rajkumar-aute.tk){:target="_blank"} ~ <img width="" height="12" src="./image/blog.png">[/RajkumarAute](https://rajkumaraute.blogspot.com/){:target="_blank"}
