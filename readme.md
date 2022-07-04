@@ -47,7 +47,7 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 
 ### By the book (Education)
 >**Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 69.84% in 2013  
-**[Karnataka PUE Board Bangalore](http://pue.kar.nic.in/){:target="_blank"} 10+2** with 49% in 2009  
+**[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"} 10+2** with 49% in 2009  
 **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
 <!-- <img width="" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Seal_of_Karnataka.svg/1024px-Seal_of_Karnataka.svg.png"> **Post Graduation Diploma in Computer Application** _[Gulbarga University](https://www.gug.ac.in/){:target="_blank"}_ with 62.16% in 2016 -->
 
