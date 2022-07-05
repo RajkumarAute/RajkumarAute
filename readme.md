@@ -7,7 +7,7 @@ Catch up <img width="" height="12" src="./image/call.gif"> [9945571886](https://
 
 ### Bag of Tricks (Skills)
 > <img width="" height="12" src="https://resourcestack.com/wp-content/uploads/2020/07/DevSecOps-page.jpg"> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
-<img width="" height="12" src="https://cdn-icons-png.flaticon.com/512/1636/1636540.png"> ___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services as well.  
+<img width="" height="12" src="https://cdn1.iconfinder.com/data/icons/monoflat-series-10/320/cloud-computing-infrastructure-service-connection-network-server-global-hosting-512.png"> ___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services as well.  
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
 ### Go the extra mile (Experience)
