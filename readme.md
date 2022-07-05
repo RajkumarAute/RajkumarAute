@@ -44,7 +44,7 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 <img width="" height="30" src="https://images.credly.com/size/680x680/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"> [**IBM Garage Essentials**](https://www.credly.com/badges/07bcd366-73cc-48a3-be98-d7be94a50c73/public_url){:target="_blank"}<font size="1"> ~ 2022</font>  
 <img width="" height="30" src="https://images.credly.com/size/680x680/images/9beccf39-df2f-4025-b971-3a7ec6dfdbfa/image.png"> [**IBM Garage Foundation**](https://www.credly.com/badges/32e585fc-aa8f-4113-95f4-e520f5e7d0bf/public_url){:target="_blank"}<font size="1"> ~ 2022</font>  
 <img width="" height="30" src="https://images.credly.com/size/680x680/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png"> [**IBM Agile Explorer**](https://www.credly.com/badges/c3e6edb8-0874-4a87-8013-b8858b78f153/public_url){:target="_blank"}<font size="1"> ~ 2022</font>  
-<img width="" height="30" src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"> [**Enterprise Design Thinking Practitioner**](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395/public_url){:target="_blank"}<font size="1"> ~ 2022</font>  
+<img width="" height="30" src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"> [**IBM Enterprise Design Thinking Practitioner**](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395/public_url){:target="_blank"}<font size="1"> ~ 2022</font>  
 
 ### By the book (Education)
 >**Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 69.84% in 2013  
