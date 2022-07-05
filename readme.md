@@ -14,7 +14,7 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 ### <img width="" height="18" src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"> [***International Business Machines***](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
 > Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps.
 
-### <img width="" height="18" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Tata_Consultancy_Services_Logo.svg"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
+### <img width="" height="18" src="https://www.gartner.com/pi/vendorimages/tata-consultancy-services-tcs_enterprise-agile-planning-tools_1638176668148.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
 > Application migrated to AWS and Azure cloud using Terraform and Azure DevOps.  
 Lead Cloud Architect and Handle L2 production issues on AWS cloud infra. & Contributed to build CI/CD pipeline, Git & Terraform. 
 
