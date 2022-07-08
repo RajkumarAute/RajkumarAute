@@ -56,7 +56,7 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 
 <img width="" height="30" src="https://images.credly.com/size/680x680/images/c1ca6570-bdc6-40e9-8992-722050788418/Security-_-Privacy-by-Design-Foundational.png"> [**IBM Security and Privacy by Design Foundations**](https://www.credly.com/badges/9d566f46-fdc4-4c49-ab6b-270e54da0768/public_url){:target="_blank"}<font size="1"> ~ 2022</font>  
 
-<img width="" height="30" src="https://images.credly.com/size/680x680/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"> [**IBM Garage Essentials**](https://www.credly.com/badges/07bcd366-73cc-48a3-be98-d7be94a50c73/public_url){:target="_blank"}<font size="1"> ~ 2022</font>  
+<img width="" height="30" src="https://images.credly.com/size/680x680/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"> [**IBM Garage Essentials**](https://www.credly.com/badges/07bcd366-73cc-48a3-be98-d7be94a50c73/public_url){:target="_blank"} &
 
 <img width="" height="30" src="https://images.credly.com/size/680x680/images/9beccf39-df2f-4025-b971-3a7ec6dfdbfa/image.png"> [**IBM Garage Foundation**](https://www.credly.com/badges/32e585fc-aa8f-4113-95f4-e520f5e7d0bf/public_url){:target="_blank"}<font size="1"> ~ 2022</font>  
 
