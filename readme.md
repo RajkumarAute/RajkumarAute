@@ -12,7 +12,8 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 
 ### Go the extra mile (Experience)
 ### <img width="" height="18" src="./image/ibm.png"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
-> Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps.
+> DevSecOps and IT Automation Engineer (Client site)
+Working on Azure Data Bricks, Azure Data factory, Azure DevOps, & Azure Kubernetes Service to build and automate infra provisioning for Data analytics.
 
 ### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
 > Application migrated to AWS and Azure cloud using Terraform and Azure DevOps.  
