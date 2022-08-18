@@ -1,6 +1,6 @@
 <!--- <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
-Catch up <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
-<img width="" height="12" src="./image/email.png"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
+Catch up <img width="" height="12" src="./image/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
+<img width="" height="12" src="./image/email.gif"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="12" src="./image/location.jpg"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
 > With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Architect, Kubernetes, Terraform, Cloud DevOps*** and a background in the design, implementation, and delivery of websites and applications. **Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps.**
@@ -44,12 +44,12 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 <img width="" height="30" src="./image/redhat.png"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font>  
 
 > <img width="" height="30" src="./image/DevSecOps-Essentials.png"> [**IBM DevSecOps Essentials**](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}  
-<img width="" height="30" src="./image/Security-_-Privacy-by-Design-Foundational.png"> [**IBM Security and Privacy by Design Foundations**](https://www.credly.com/badges/9d566f46-fdc4-4c49-ab6b-270e54da0768/public_url){:target="_blank"}  
-<img width="" height="30" src="./image/IBM_Garage_Essentials.png"> [**IBM Garage Essentials**](https://www.credly.com/badges/07bcd366-73cc-48a3-be98-d7be94a50c73/public_url){:target="_blank"}  
-<img width="" height="30" src="./image/IBM_Garage_Foundation.png"> [**IBM Garage Foundation**](https://www.credly.com/badges/32e585fc-aa8f-4113-95f4-e520f5e7d0bf/public_url){:target="_blank"}  
-<img width="" height="30" src="./image/IBM-Agile-Explorer.png"> [**IBM Agile Explorer**](https://www.credly.com/badges/c3e6edb8-0874-4a87-8013-b8858b78f153/public_url){:target="_blank"}  
-<img width="" height="30" src="./image/Badges_v8-07_Practitioner.png"> [**IBM Enterprise Design Thinking Practitioner**](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395/public_url){:target="_blank"}  
-<img width="" height="30" src="./image/IBM_Consulting_Way.png"> [**IBM Consulting Way**](https://www.credly.com/badges/22a02dc8-4977-4212-866a-4ad290c72438/public_url){:target="_blank"}  
+~ <img width="" height="30" src="./image/Security-_-Privacy-by-Design-Foundational.png"> [**IBM Security and Privacy by Design Foundations**](https://www.credly.com/badges/9d566f46-fdc4-4c49-ab6b-270e54da0768/public_url){:target="_blank"}  
+~ <img width="" height="30" src="./image/IBM_Garage_Essentials.png"> [**IBM Garage Essentials**](https://www.credly.com/badges/07bcd366-73cc-48a3-be98-d7be94a50c73/public_url){:target="_blank"}  
+~ <img width="" height="30" src="./image/IBM_Garage_Foundation.png"> [**IBM Garage Foundation**](https://www.credly.com/badges/32e585fc-aa8f-4113-95f4-e520f5e7d0bf/public_url){:target="_blank"}  
+~ <img width="" height="30" src="./image/IBM-Agile-Explorer.png"> [**IBM Agile Explorer**](https://www.credly.com/badges/c3e6edb8-0874-4a87-8013-b8858b78f153/public_url){:target="_blank"}  
+~ <img width="" height="30" src="./image/Badges_v8-07_Practitioner.png"> [**IBM Enterprise Design Thinking Practitioner**](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395/public_url){:target="_blank"}  
+~ <img width="" height="30" src="./image/IBM_Consulting_Way.png"> [**IBM Consulting Way**](https://www.credly.com/badges/22a02dc8-4977-4212-866a-4ad290c72438/public_url){:target="_blank"}  
 
 ### By the book (Education)
 >**Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 69.84% in 2013  
