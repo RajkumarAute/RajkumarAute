@@ -6,7 +6,7 @@ Catch up <img width="" height="12" src="./image/call.gif"> [9945571886](https://
 > With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Architect, Kubernetes, Terraform, Cloud DevOps*** and a background in the design, implementation, and delivery of websites and applications. **Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps.**
 
 ### Bag of Tricks (Skills)
-> <img width="" height="12" src="./image/DevSecOps.jpgx"> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
+> <img width="" height="12" src="./image/DevSecOps.jpg"> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
 <img width="" height="12" src="./image/cloud.webpx"> ___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services as well.  
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
