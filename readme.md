@@ -1,6 +1,6 @@
 <!--- <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
 Catch up <img width="" height="12" src="./image/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
-<img width="" height="12" src="./image/email.gifx"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
+<img width="" height="12" src="./image/email.gif"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="12" src="./image/location.jpgx"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
 > With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Architect, Kubernetes, Terraform, Cloud DevOps*** and a background in the design, implementation, and delivery of websites and applications. **Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps.**
