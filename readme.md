@@ -38,10 +38,10 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 > Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
 ### Learning curve (Certifications)
-> <img width="" height="30" src="./image/cert/AWS_Architect_Associate.pngx"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
-<img width="" height="30" src="./image/cert/azure-administrator-associate.pngx"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
+> <img width="" height="30" src="./image/cert/AWS_Architect_Associate.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
+<img width="" height="30" src="./image/cert/azure-administrator-associate.png"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
 <img width="" height="30" src="./image/cert/oracle.jpg"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Apr 2020 - Oct 2021</font>  
-<img width="" height="30" src="./image/cert/redhat.pngx"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font>  
+<img width="" height="30" src="./image/cert/redhat.png"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font>  
 
 > <img width="" height="30" src="./image/DevSecOps-Essentials.pngx"> [**IBM DevSecOps Essentials**](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}  
 <img width="" height="30" src="./image/Security-_-Privacy-by-Design-Foundational.pngx"> [**IBM Security and Privacy by Design Foundations**](https://www.credly.com/badges/9d566f46-fdc4-4c49-ab6b-270e54da0768/public_url){:target="_blank"}  
