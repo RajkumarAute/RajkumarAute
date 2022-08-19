@@ -52,7 +52,7 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 <img width="" height="30" src="./image/cert/IBM_Consulting_Way.png"> [**IBM Consulting Way**](https://www.credly.com/badges/22a02dc8-4977-4212-866a-4ad290c72438/public_url){:target="_blank"}  
 
 ### By the book (Education)
->**PGDCA [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 62.16% in 2016
+>**PGDCA [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 62.16% in 2016  
 **Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 69.84% in 2013  
 **[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"} 10+2** with 49% in 2009  
 **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
