@@ -11,30 +11,30 @@ ___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services 
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
 
 ### Go the extra mile (Experience)
-### <img width="" height="18" src="./image/ibm.pngx"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
+### <img width="" height="18" src="./image/ibm.png"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
 > DevSecOps and IT Automation Engineer (Client site)
 Working on Azure Data Bricks, Azure Data factory, Azure DevOps, & Azure Kubernetes Service to build and automate infra provisioning for Data analytics.
 
-### <img width="" height="18" src="./image/tcs.pngx"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
+### <img width="" height="18" src="./image/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
 > Application migrated to AWS and Azure cloud using Terraform and Azure DevOps.  
 Lead Cloud Architect and Handle L2 production issues on AWS cloud infra. & Contributed to build CI/CD pipeline, Git & Terraform. 
 
-### <img width="" height="18" src="./image/devdigital.jpgx"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
+### <img width="" height="18" src="./image/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Designed & built the AWS & Azure Cloud infrastructure for Production & Addressed AWS L3 production issues & security concerns as well as Azure L1.  
 Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infrastructure.
 
-### <img width="" height="18" src="./image/lera.pngx"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>**_ <font size="1">Sep 2019 - Apr 2020.</font>  
+### <img width="" height="18" src="./image/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>**_ <font size="1">Sep 2019 - Apr 2020.</font>  
 > Designed and built cloud infra and Addressed AWS L2 & Azure L1 production issues.  
 Contributed to Built & automate CI/CD pipeline, Git & Jenkins used to build a containerized application, virtualization, O365, & Oracle JD Edwards ERP.
 
-### <img width="" height="18" src="./image/wla.pngx"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ***<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>*** <font size="1">Aug 2018 - Aug 2019</font>
+### <img width="" height="18" src="./image/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ***<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>*** <font size="1">Aug 2018 - Aug 2019</font>
 > Administrated the Cloud infra & Accomplished various Cloud Services  
 Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS cloud.
 
-### <img width="" height="18" src="./image/3i.pngx"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2"> Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 <!--- - Jul 2017 & Oct 2017 ---> - Jul 2018</font>
+### <img width="" height="18" src="./image/3i.png"> [3i Infotech Consultancy Services](http://www.3i-infotech.com){:target="_blank"} ***<font size="2"> Engineer | AWS, Linux | Hyderabad.</font>*** <font size="1">Mar 2015 <!--- - Jul 2017 & Oct 2017 ---> - Jul 2018</font>
 > Handled Linux servers & DB servers on AWS Cloud. ADDC, Users & Groups, File & Print Sharing. 
 
-### <img width="" height="20" src="./image/infoservice.jpgx"> [Info Services](http://ibmesp.com){:target="_blank"}<!---***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> & <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2"> Engineer | Clients-MAFIL</font>*** <font size="1">Mar 2012 - <!---July 2014--->Mar 2015</font> <font size="1"> </font>  
+### <img width="" height="20" src="./image/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}<!---***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> & <img width="" height="15" src="./image/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2"> Engineer | Clients-MAFIL</font>*** <font size="1">Mar 2012 - <!---July 2014--->Mar 2015</font> <font size="1"> </font>  
 > Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
 ### Learning curve (Certifications)
