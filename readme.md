@@ -1,5 +1,5 @@
 <!--- <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
-Catch up <img width="" height="12" src="./image/call.gifx"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
+Catch up <img width="" height="12" src="./image/call.png"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="12" src="./image/email.gifx"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="12" src="./image/location.jpgx"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
