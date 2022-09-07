@@ -61,4 +61,4 @@ Handled DC Servers, Routers, Switches, Network applications, Users & Groups.
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practises in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
-###### More About me - résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"}
+##### More About me - résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"}
