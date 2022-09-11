@@ -4,7 +4,7 @@ Catch up <img width="" height="12" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="12" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
 > In 2012, I decided to pursue a career in the _IT_ sector administrating Windows, Linux, and network. Later, I switched to _Cloud and DevOps technology_ in 2017 became
-proficient in Design, Implementation and Delivery of Websites, Applications, Data Analytics, AWS Cloud Architect, Kubernetes, Terraform, Cloud DevOps. and Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps. and Passionate Technical Mentor and Guide.
+proficient in Design, Implementation and Delivery of Websites, Applications, Data Analytics, ***AWS Cloud Architect, Kubernetes, Terraform, Cloud DevOps.*** and Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps. and Passionate Technical Mentor and Guide.
 ### Bag of Tricks (Skills)
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
 ___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services as well.  
