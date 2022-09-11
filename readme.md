@@ -3,8 +3,8 @@ Catch up <img width="" height="12" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="12" src="./image/other/email.gif"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="12" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
-> With 9+ years' experience in the IT industry, including 4+ years in ***Amazon Web Services Cloud Architect, Kubernetes, Terraform, Cloud DevOps*** and a background in the design, implementation, and delivery of websites and applications. **Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps.**, Passionate Technical Mentor and Guide.
-
+> In 2012, I decided to pursue a career in the _information technology_ sector using Windows, Linux, and networking technologies. Later, I switched to _Cloud and DevOps technology_ in 2017.
+Proficient in Design, Implementation and Delivery of Websites, Applications, Data Analytics, AWS Cloud Architect, Kubernetes, Terraform, Cloud DevOps. and Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps. and Passionate Technical Mentor and Guide.
 ### Bag of Tricks (Skills)
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
 ___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services as well.  
@@ -12,12 +12,13 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 
 ### Go the extra mile (Experience)
 ### <img width="" height="18" src="./image/org/ibm.png"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
-> DevSecOps and IT Automation Engineer (Client site)
-Working on Azure Data Bricks, Azure Data factory, Azure DevOps, & Azure Kubernetes Service to build and automate infra provisioning for Data analytics.
+> DevSecOps and IT Automation Engineer (Client site)  
+Building Azure DevOps pipeline for Data analytics using Azure Data Bricks, Azure Data factory.  
+Azure Kubernetes Service to build and automate infra provisioning for Data analytics.
 
 ### <img width="" height="18" src="./image/org/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
 > Application migrated to AWS and Azure cloud using Terraform and Azure DevOps.  
-Lead Cloud Architect and Handle L2 production issues on AWS cloud infra. & Contributed to build CI/CD pipeline, Git & Terraform. 
+Lead Cloud Architect and Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git & Terraform. 
 
 ### <img width="" height="18" src="./image/org/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Designed & built the AWS & Azure Cloud infrastructure for Production & Addressed AWS L3 production issues & security concerns as well as Azure L1.  
@@ -31,7 +32,7 @@ Contributed to Built & automate CI/CD pipeline, Git & Jenkins used to build a co
 > Administrated the Cloud infra & Accomplished various Cloud Services  
 Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS cloud.
 
-### <img width="" height="18" src="./image/org/3i.png"> [3i Infotech](http://www.3i-infotech.com){:target="_blank"} ***<font size="2"> <!---Engineer | AWS, Linux | Hyderabad.---></font>*** <font size="1"> <!---Mar 2015 - Jul 2018 ---></font> & <img width="" height="20" src="./image/org/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}<!---***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> & <img width="" height="15" src="./image/org/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2"> Engineer</font>*** <font size="1">Mar 2012 - <!---Mar 2012 - July 2014---> Jul 2018</font> <font size="1"> </font>  
+### <img width="" height="18" src="./image/org/3i.png"> [3i Infotech](http://www.3i-infotech.com){:target="_blank"} ***<font size="2"> <!---Engineer | AWS, Linux | Hyderabad.---></font>*** <font size="1"> <!---Mar 2015 - Jul 2018 ---></font> | <img width="" height="20" src="./image/org/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}<!---***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> | <img width="" height="15" src="./image/org/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2"> Engineer</font>*** <font size="1">Mar 2012 - <!---Mar 2012 - July 2014---> Jul 2018</font> <font size="1"> </font>  
 > Handled Linux servers & DB servers on Cloud. ADDC, Users & Groups, File & Print Sharing.  
 Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
 
@@ -57,8 +58,8 @@ Handled DC Servers, Routers, Switches, Network applications, Users & Groups.
 
 #### Win-Win (Honors & Awards)
 > [TCS](http://www.tcs.com) Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
-[WHL](http://www.wonderla.com) Appreciated by the VP IT.  
-[3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practises in IT service.  
+[WHL](http://www.wonderla.com) Appreciated by the VP IT for implementing automation.  
+[3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practices in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
 ##### More About me - résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"}
