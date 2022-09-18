@@ -64,9 +64,3 @@ Handled DC Servers, Routers, Switches, Network applications, Users & Groups.
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
 ##### More About me - résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"}
-
-
-wkpdf --source https://rajkumar-aute.github.io/Rajkumar-Aute/
-      --stylesheet-media screen
-      --print-background yes
-      --output printIt.pdf
