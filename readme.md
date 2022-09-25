@@ -3,8 +3,7 @@ Catch up <img width="" height="12" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="12" src="./image/other/email.gif"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="12" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
-> In 2012, I decided to pursue a career in the _IT_ sector administrating Windows, Linux, and network. Later, I switched to _Cloud and DevOps technology_ in 2017 became
-proficient in Design, Implementation and Delivery of Websites, Applications, Data Analytics, ***AWS Cloud Architect, Kubernetes, Terraform, Cloud DevOps.*** and Aspired to work on Kubernetes on Cloud, AWS EKS, Azure AKS, with AWS DevOps / Azure DevOps. and Passionate Technical Mentor and Guide.
+> Technophile since childhood, started my career in 2012 as Windows, Linux, and network engineer. Later, switched to _Cloud and DevOps technology_ in 2017 as _AWS & Azure Cloud Architect, Kubernetes, Terraform, Cloud DevSecOps Engineer._ Proficient in Design, Implementation and Delivery of Websites, Applications, Data Analytics.
 
 ### Bag of Tricks (Skills)
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
@@ -15,7 +14,8 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 ### <img width="" height="18" src="./image/org/ibm.png"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevSecOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
 > DevSecOps and IT Automation Engineer | DataOps (Client site)  
 Building Azure DevOps pipeline for Data analytics using Azure Data Bricks, Azure Data factory.  
-Azure Kubernetes Service to build and automate infra provisioning for Data analytics.
+Azure Kubernetes Service to build and automate infra provisioning for Data analytics.  
+Technical Mentor and Guide.
 
 ### <img width="" height="18" src="./image/org/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
 > Application migrated to AWS and Azure cloud using Terraform and Azure DevOps.  
