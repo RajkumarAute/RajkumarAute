@@ -3,12 +3,12 @@ Catch up <img width="" height="12" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="12" src="./image/other/email.gif"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="12" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
-> Technophile since childhood, started my career in 2012 as Windows, Linux, and network engineer. Later, switched to _Cloud and DevOps technology_ in 2017 as _AWS & Azure Cloud Architect, Kubernetes, Terraform, Cloud DevSecOps Engineer._ Proficient in Design, Implementation and Delivery of Websites, Applications, Data Analytics.
+> Technophile since childhood, started my career in 2012 as Windows, Linux, and Network engineer. And in 2017 switched to _Cloud and DevOps technology_ as _AWS & Azure Cloud Architect, Kubernetes, Terraform, Cloud DevSecOps Engineer._ Proficient in Design, Implementation and Delivery of Websites, Applications, and Data Analytics.
 
 ### Bag of Tricks (Skills)
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
-___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services as well.  
-___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile.
+___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services.  
+___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile, Scrum.
 
 ### Go the extra mile (Experience)
 ### <img width="" height="18" src="./image/org/ibm.png"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevSecOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
@@ -22,8 +22,8 @@ Technical Mentor and Guide.
 Lead Cloud Architect and Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git & Terraform. 
 
 ### <img width="" height="18" src="./image/org/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
-> Designed & built the AWS & Azure Cloud infrastructure for Production & Addressed AWS L3 production issues & security concerns as well as Azure L1.  
-Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infrastructure.
+> Designed & built the AWS & Azure Cloud infra & Addressed AWS L3 issues & security concerns as well as Azure L1.  
+Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infra.
 
 ### <img width="" height="18" src="./image/org/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>**_ <font size="1">Sep 2019 - Apr 2020.</font>  
 > Designed and built cloud infra and Addressed AWS L2 & Azure L1 production issues.  
@@ -34,8 +34,8 @@ Contributed to Built & automate CI/CD pipeline, Git & Jenkins used to build a co
 Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS cloud.
 
 ### <img width="" height="18" src="./image/org/3i.png"> [3i Infotech](http://www.3i-infotech.com){:target="_blank"} ***<font size="2"> <!---Engineer | AWS, Linux | Hyderabad.---></font>*** <font size="1"> <!---Mar 2015 - Jul 2018 ---></font> | <img width="" height="20" src="./image/org/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}<!---***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> | <img width="" height="15" src="./image/org/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2"> Engineer</font>*** <font size="1">Mar 2012 - <!---Mar 2012 - July 2014---> Jul 2018</font> <font size="1"> </font>  
-> Handled Linux servers & DB servers on Cloud. ADDC, Users & Groups, File & Print Sharing.  
-Handled DC Servers, Routers, Switches, Network applications, Users & Groups. 
+> Handled Linux & DB servers on Cloud. ADDC, Users & Groups, File & Print Sharing.  
+Handled Windows DC Servers, Routers, Switches, Users & Groups.
 
 ### Learning curve (Certifications)
 > <img width="" height="30" src="./image/cert/AWS_Architect_Associate.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
