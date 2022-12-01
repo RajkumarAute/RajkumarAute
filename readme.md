@@ -12,14 +12,11 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 
 ### Go the extra mile (Experience)
 ### <img width="" height="18" src="./image/org/ibm.png"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevSecOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
-> DevSecOps and IT Automation Engineer | DataOps (Client site)  
-Building Azure DevOps pipeline for Data analytics using Azure Data Bricks, Azure Data factory.  
-Azure Kubernetes Service to build and automate infra provisioning for Data analytics.  
-Technical Mentor and Guide.
+>Azure Kubernetes Service to build and automate infra provisioning for Data analytics.  
 
 ### <img width="" height="18" src="./image/org/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
-> Application migrated to AWS and Azure cloud using Terraform and Azure DevOps.  
-Lead Cloud Architect and Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git & Terraform. 
+> Application migrated to AWS cloud using Terraform and Azure DevOps.  
+Lead Cloud Architect and Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git Kubernetes & Terraform. 
 
 ### <img width="" height="18" src="./image/org/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Designed & built the AWS & Azure Cloud infra & Addressed AWS L3 issues & security concerns as well as Azure L1.  
