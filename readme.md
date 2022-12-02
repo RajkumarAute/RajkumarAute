@@ -3,7 +3,7 @@ Catch up <img width="" height="12" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="12" src="./image/other/email.gif"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="12" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
-> Technophile since childhood, started my career in 2012 as Windows, Linux, and Network engineer. And in 2017 switched to _Cloud and DevOps technology_ as _AWS Cloud Architect, Kubernetes, Terraform, Cloud DevSecOps Engineer._ Proficient in Design, Implementation and Delivery of Websites, Applications, and Data Analytics.
+> Technophile since childhood, started my career in 2012 as Windows, Linux, and Network engineer. And in 2017 switched to _Cloud and DevOps technology_ as _AWS Cloud Architect, Kubernetes, Terraform, Cloud DevSecOps Engineer._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
 ### Bag of Tricks (Skills)
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Jenkins, AWS DevOps,  Azure DevOps, Monitoring.  
