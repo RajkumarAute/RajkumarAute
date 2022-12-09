@@ -13,7 +13,7 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 ### Go the extra mile (Experience)
 ### <img width="" height="18" src="./image/org/ibm.png"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevSecOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
 > **Client - Shell India**  
-Azure Kubernetes Service to build and automate infra provisioning for Data analytics.  
+Build and automate Azure Kubernetes Service infra for Data analytics.  
 AKS Cluster setup using terraform and Azure DevOps pipeline.
 
 ### <img width="" height="18" src="./image/org/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
