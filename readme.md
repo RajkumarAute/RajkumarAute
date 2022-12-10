@@ -3,7 +3,7 @@ Catch up <img width="" height="12" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="12" src="./image/other/email.gif"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="12" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
-> Technophile since childhood, started my career in 2012 as IT engineer. And in 2017 switched to _Cloud and DevOps technology_ as _AWS Cloud Architect, Kubernetes, Terraform, Cloud DevSecOps Engineer._ Proficient in Design, Implementation and Delivery of Websites & Applications.
+> Geek since childhood, started my career in 2012 as IT engineer. And in 2017 switched to _Cloud and DevOps technology_ as _AWS Cloud Architect, Kubernetes, Terraform, Cloud DevSecOps Engineer._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
 ### Bag of Tricks (Skills)
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Azure DevOps, Monitoring.  
@@ -22,15 +22,15 @@ Lead Cloud Architect and Handled AWS L2 production issues. & Contributed to buil
 
 ### <img width="" height="18" src="./image/org/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Designed & built the AWS & Azure Cloud infra & Addressed AWS L3 issues & security concerns as well as Azure L1.  
-Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infra.
+Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infra.  
 
 ### <img width="" height="18" src="./image/org/lera.png"> [Lera Technologies](http://www.lera.us){:target="_blank"} _**<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>**_ <font size="1">Sep 2019 - Apr 2020.</font>  
 > Designed and built cloud infra and Addressed AWS L2 & Azure L1 production issues.  
-Contributed to Built & automate CI/CD pipeline, Git & Jenkins used to build a containerized application, virtualization, O365, & Oracle JD Edwards ERP.
+Contributed to Built & automate CI/CD pipeline, Git & Jenkins used to build a containerized application, virtualization, & Azure AD.
 
 ### <img width="" height="18" src="./image/org/wla.png"> [Wonderla Holidays Ltd.](http://www.wonderla.com){:target="_blank"} ***<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>*** <font size="1">Aug 2018 - Aug 2019</font>
 > Administrated the Cloud infra & Accomplished various Cloud Services  
-Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted in VMWare ESXi & AWS cloud.
+Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted on VMWare ESXi & AWS cloud.
 
 ### <img width="" height="18" src="./image/org/3i.png"> [3i Infotech](http://www.3i-infotech.com){:target="_blank"} ***<font size="2"> <!---Engineer | AWS, Linux | Hyderabad.---></font>*** <font size="1"> <!---Mar 2015 - Jul 2018 ---></font> | <img width="" height="20" src="./image/org/infoservice.jpg"> [Info Services](http://ibmesp.com){:target="_blank"}<!---***<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>*** <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> | <img width="" height="15" src="./image/org/kaizen.png"> [Kaizen IT Services](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} ***<font size="2"> Engineer</font>*** <font size="1">Mar 2012 - <!---Mar 2012 - July 2014---> Jul 2018</font> <font size="1"> </font>  
 > Handled Linux & DB servers on Cloud. ADDC, Users & Groups, File & Print Sharing.  
@@ -59,6 +59,7 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 
 #### Win-Win (Honors & Awards)
 > [TCS](http://www.tcs.com) Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
+[DevDigital Vadodara](http://www.devdigital.com) Appreciated by Management for migrating containers from one AWS account to another AWS account single handedly.   
 [WHL](http://www.wonderla.com) Appreciated by the VP IT for implementing automation.  
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practices in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
