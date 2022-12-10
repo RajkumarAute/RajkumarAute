@@ -11,7 +11,7 @@ ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
 ### Go the extra mile (Experience)
-### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Present</font>
+#### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Present</font>
 > **Client - Shell India**  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
 AKS Cluster setup using Terraform and Azure DevOps.
