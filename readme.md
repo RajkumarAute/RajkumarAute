@@ -58,7 +58,6 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 
 #### Win-Win (Honors & Awards)
 >[TCS](http://www.tcs.com) Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
-[DevDigital Vadodara](http://www.devdigital.com) Appreciated by Management for migrating containers AWS single handedly.   
 [WHL](http://www.wonderla.com) Appreciated by the VP IT for implementing automation.  
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practices in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
