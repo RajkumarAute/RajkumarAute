@@ -20,7 +20,7 @@ AKS Cluster setup using Terraform and Azure DevOps.
 > Lead for Application migration to AWS cloud using Terraform and Azure DevOps.  
 Lead Cloud Architect and Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git, Kubernetes & Terraform.
 
-### <img width="" height="14" src="./image/org/devdigital.jpg"> [DevDigital Vadodara](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
+### <img width="" height="14" src="./image/org/devdigital.jpg"> [DevDigital](http://www.devdigital.com){:target="_blank"} ***<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>*** <font size="1">May 2020 - Nov 2020.</font>  
 > Designed & built the AWS & Azure Cloud infra & Addressed AWS L3 issues & security concerns as well as Azure L1.  
 Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infra.  
 
