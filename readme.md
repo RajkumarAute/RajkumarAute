@@ -3,20 +3,20 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@gmail.com](mailto:RajkumarAute@gmail.com){:target="_blank"} ~
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
-> Geek since childhood, started my career in 2012 as IT engineer. And in 2017 switched to _Cloud and DevOps technology_ as _AWS Cloud Architect, Kubernetes, Terraform, Cloud DevSecOps Engineer._ Proficient in Design, Implementation and Delivery of Websites & Applications.
+> Geek since childhood, started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _AWS Architect, Kubernetes, Terraform, DevSecOps Engineer._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
 ### Bag of Tricks (Skills)
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Azure DevOps, Monitoring.  
-___AWS  & Microsoft Azure___ > Cloud Compute, Storage, Network & other services such as EC2, ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other cloud services.  
-___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization, VMWare EXSi, XenServer, ITSM, Agile, Scrum.
+___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other services.  
+___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
 ### Go the extra mile (Experience)
-### <img width="" height="14" src="./image/org/ibm.png"> [International Business Machines](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer, Cloud DevSecOps | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
+### <img width="" height="14" src="./image/org/ibm.png"> [.IBM](https://www.ibm.com){:target="_blank"} _**<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>**_ <font size="1">May 2022 - Present</font>
 > **Client - Shell India**  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
 AKS Cluster setup using Terraform and Azure DevOps.
 
-### <img width="" height="14" src="./image/org/tcs.png"> [Tata Consultancy Services](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
+### <img width="" height="14" src="./image/org/tcs.png"> [TCS](http://www.tcs.com){:target="_blank"} _**<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>**_ <font size="1">Dec 2020 - May 2022</font>  
 > Lead for Application migration to AWS cloud using Terraform and Azure DevOps.  
 Lead Cloud Architect and Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git, Kubernetes & Terraform.
 
