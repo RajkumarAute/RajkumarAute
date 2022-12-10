@@ -45,7 +45,7 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 
 > <img width="" height="30" src="./image/cert/DevSecOps-Essentials.png"> [**IBM DevSecOps Essentials**](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}  
 <img width="" height="30" src="./image/cert/Security-_-Privacy-by-Design-Foundational.png"> [**IBM Security and Privacy by Design Foundations**](https://www.credly.com/badges/9d566f46-fdc4-4c49-ab6b-270e54da0768/public_url){:target="_blank"}  
-<img width="" height="30" src="./image/cert/IBM_Garage_Essentials.png"> [**IBM Garage Essentials**](https://www.credly.com/badges/07bcd366-73cc-48a3-be98-d7be94a50c73/public_url){:target="_blank"}  
+<img width="" height="30" src="./image/cert/IBM_Garage_Essentials.png"> [**IBM Garage Essentials**](https://www.credly.com/badges/07bcd366-73cc-48a3-be98-d7be94a50c73/public_url){:target="_blank"} & 
 <img width="" height="30" src="./image/cert/IBM_Garage_Foundation.png"> [**IBM Garage Foundation**](https://www.credly.com/badges/32e585fc-aa8f-4113-95f4-e520f5e7d0bf/public_url){:target="_blank"}  
 <img width="" height="30" src="./image/cert/IBM-Agile-Explorer.png"> [**IBM Agile Explorer**](https://www.credly.com/badges/c3e6edb8-0874-4a87-8013-b8858b78f153/public_url){:target="_blank"}  
 <img width="" height="30" src="./image/cert/Badges_v8-07_Practitioner.png"> [**IBM Enterprise Design Thinking Practitioner**](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395/public_url){:target="_blank"}  
@@ -64,4 +64,4 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practices in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
-##### More About me - résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin/RajkumarAute](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub/Rajkumar-Aute](https://github.com/Rajkumar-Aute){:target="_blank"}
+##### Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
