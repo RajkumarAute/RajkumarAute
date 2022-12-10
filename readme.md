@@ -40,10 +40,9 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 ><img width="" height="14" src="./image/cert/cka.svg"> [**Certified Kubernetes Administrator (CKA)**](https://www.credly.com/){:target="_blank"}<font size="1"> ~ Dec 2022(Scheduled)</font>  
 <img width="" height="14" src="./image/cert/AWS_Architect_Associate.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
 <img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
-<img width="" height="14" src="./image/cert/oracle.jpg"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Apr 2020 - Oct 2021</font>  
-<img width="" height="14" src="./image/cert/redhat.png"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font>  
-
-><img width="" height="14" src="./image/cert/DevSecOps-Essentials.png"> [**IBM DevSecOps Essentials**](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"} | 
+<img width="" height="14" src="./image/cert/oracle.jpg"> [**Oracle Cloud Infrastructure Foundations Certified**](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Apr 2020 - Oct 2021</font> | 
+<img width="" height="14" src="./image/cert/redhat.png"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<font size="1"> ~ Jul 2018 - Jul 2021</font> | 
+<img width="" height="14" src="./image/cert/DevSecOps-Essentials.png"> [**IBM DevSecOps Essentials**](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/Security-_-Privacy-by-Design-Foundational.png"> [**IBM Security and Privacy by Design Foundations**](https://www.credly.com/badges/9d566f46-fdc4-4c49-ab6b-270e54da0768/public_url){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/IBM_Garage_Essentials.png"> [**IBM Garage Essentials**](https://www.credly.com/badges/07bcd366-73cc-48a3-be98-d7be94a50c73/public_url){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/IBM_Garage_Foundation.png"> [**IBM Garage Foundation**](https://www.credly.com/badges/32e585fc-aa8f-4113-95f4-e520f5e7d0bf/public_url){:target="_blank"} | 
@@ -59,7 +58,7 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 
 #### Win-Win (Honors & Awards)
 >[TCS](http://www.tcs.com) Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
-[DevDigital Vadodara](http://www.devdigital.com) Appreciated by Management for migrating containers from one AWS account to another AWS account single handedly.   
+[DevDigital Vadodara](http://www.devdigital.com) Appreciated by Management for migrating containers AWS single handedly.   
 [WHL](http://www.wonderla.com) Appreciated by the VP IT for implementing automation.  
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practices in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
