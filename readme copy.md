@@ -63,4 +63,4 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 [WHL](http://www.wonderla.com) Appreciated by the VP IT for implementing automation.  
 [3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practices in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
-###### Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
+##### Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
