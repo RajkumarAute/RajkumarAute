@@ -58,9 +58,9 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
 
 #### Win-Win (Honors & Awards)
->[TCS](http://www.tcs.com) Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
-[WHL](http://www.wonderla.com) Appreciated by the VP IT for implementing automation.  
-[3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practices in IT service.  
+>[TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
+[WHL](http://www.wonderla.com) ~ Appreciated by the VP IT for implementing automation.  
+[3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
 ###### Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
