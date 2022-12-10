@@ -58,9 +58,10 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
 
 #### Win-Win (Honors & Awards)
->[<font size="2.5">TCS</font>](http://www.tcs.com) <font size="2.5">Achieved</font> [<font size="2.5">__TCS Gems, Contextual Master__</font>](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} <font size="2.5">Award for sharing my Cloud DevOps knowledge & contributing to the client project.</font>  
-[<font size="2.5">DevDigital Vadodara</font>](http://www.devdigital.com) <font size="2.5">Appreciated by Management for migrating containers from one AWS account to another AWS account single handedly.</font>   
-[<font size="2.5">WHL</font>](http://www.wonderla.com) <font size="2.5">Appreciated by the VP IT for implementing automation.</font>  
-[<font size="2.5">3i Infotech</font>](http://www.3i-infotech.com) <font size="2.5">Appreciated by the clients for implementing best practices in IT service.</font>  
-<font size="2.5">National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.</font>
+>[TCS](http://www.tcs.com) Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
+[DevDigital Vadodara](http://www.devdigital.com) Appreciated by Management for migrating containers from one AWS account to another AWS account single handedly.   
+[WHL](http://www.wonderla.com) Appreciated by the VP IT for implementing automation.  
+[3i Infotech](http://www.3i-infotech.com) Appreciated by the clients for implementing best practices in IT service.  
+National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
+
 ###### Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
