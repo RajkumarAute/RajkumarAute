@@ -5,12 +5,12 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 
 > Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps & DevSecOps Engineer, Microsoft Azure & AWS Architect, Kubernetes, Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
-### Bag of Tricks | <font size="2.5"> Skills </font>
+### Bag of Tricks <font size="3">| Skills</font>
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Azure DevOps, Monitoring.  
 ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other services.  
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
-### Go the extra mile (Experience)
+### Go the extra mile | Experience
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Present</font>
 > **Client - Shell India**  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
