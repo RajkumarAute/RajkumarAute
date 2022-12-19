@@ -5,12 +5,12 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 
 > Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps & DevSecOps Engineer, Microsoft Azure & AWS Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
-### Bag of Tricks (Skills)
+### Bag of Tricks <font size="2.8">| Skills</font>
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Azure DevOps, Monitoring.  
 ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other services.  
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
-### Go the extra mile (Experience)
+### Go the extra mile <font size="2.8">| Experience</font>
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Present</font>
 > **Client - Shell India**  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
@@ -36,8 +36,8 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 > Handled Linux & DB servers on Cloud. ADDC, Users & Groups, File & Print Sharing.  
 Handled Windows DC Servers, Routers, Switches, Users & Groups.
 
-### Learning curve (Certifications)
-><img width="" height="14" src="./image/cert/cka.svg"> [**Certified Kubernetes Administrator (CKA)**](https://www.credly.com/){:target="_blank"}<font size="1"> ~ Dec 2022(Scheduled)</font>  
+### Learning curve <font size="2.8">| Certifications</font>
+> <img width="" height="14" src="./image/cert/cka.svg"> [**Certified Kubernetes Administrator (CKA)**](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"}<font size="1"> ~ Dec 2022 - Dec 2025</font>  
 <img width="" height="14" src="./image/cert/AWS_Architect_Associate.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
 <img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
 
@@ -51,13 +51,13 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 <img width="" height="14" src="./image/cert/Badges_v8-07_Practitioner.png"> [**IBM Enterprise Design Thinking Practitioner**](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395/public_url){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/IBM_Consulting_Way.png"> [**IBM Consulting Way**](https://www.credly.com/badges/22a02dc8-4977-4212-866a-4ad290c72438/public_url){:target="_blank"}  
 
-### By the book (Education)
+### By the book <font size="2.8">| Education</font>
 >**PGDCA [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 62.16% in 2016  
 **Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 69.84% in 2013  
 **[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"} 10+2** with 49% in 2009  
 **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
 
-#### Win-Win (Honors & Awards)
+#### Win-Win <font size="2">| Honors & Awards</font>
 >[TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
 [WHL](http://www.wonderla.com) ~ Appreciated by the VP IT for implementing automation.  
 [3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
