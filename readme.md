@@ -3,7 +3,7 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="10" src="./image/other/email.gif"> [Rajkumar.Aute@ibm.com](mailto:Rajkumar.Aute@ibm.com){:target="_blank"} ~
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
-> Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps & DevSecOps Engineer, Microsoft Azure & AWS Architect, Kubernetes, Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
+> Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps & DevSecOps Engineer, Microsoft Azure & AWS Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
 ### Bag of Tricks (Skills)
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Azure DevOps, Monitoring.  
