@@ -6,7 +6,7 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 > Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps & DevSecOps Engineer, Microsoft Azure & AWS Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
 ### Bag of Tricks <font size="2.8">| Skills</font>
-> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Git, Azure DevOps, Monitoring.  
+> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Argo CD, Helm, Git, Azure DevOps, Monitoring.  
 ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other services.  
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
