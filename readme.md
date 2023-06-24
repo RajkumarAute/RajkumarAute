@@ -15,7 +15,8 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 > **Client - BMW** -
 Build and automate AWS Kubernetes Service infra for Java and Angular Application,
 Automate Application build using Jenkins, Bitbucket.
-Automate Kubernetes application deployment using Helm and Argo CD.  
+Automate Kubernetes application deployment using Helm, Argo CD, Argo Rollback.
+Implementing Cybersecurity aspects.  
 **Client - Shell India** - 
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
 AKS Cluster setup using Terraform and Azure DevOps.
