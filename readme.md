@@ -13,9 +13,9 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 ### Go the extra mile <font size="2.8">| Experience</font>
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Present</font>
 > **Client - BMW** -
-Build and automate AWS Kubernetes Service infra for Java and Angular Application,
-Automate Application build using Jenkins, Bitbucket.
-Automate Kubernetes application deployment using Helm, Argo CD, Argo Rollback.
+Build and automate AWS Kubernetes Service infra for Java and Angular Application,  
+Automate Application build using Jenkins, Bitbucket.  
+Automate Kubernetes application deployment using Helm, Argo CD, Argo Rollback.  
 Implementing Cybersecurity aspects.  
 **Client - Shell India** - 
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
