@@ -1,6 +1,6 @@
 <!--- <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
 Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
-<img width="" height="10" src="./image/other/email.gif"> [Rajkumar.Aute@gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} ~
+<img width="" height="10" src="./image/other/email.gif"> [Rajkumar.Aute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} ~
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
 
 > Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps & DevSecOps Engineer, Microsoft Azure & AWS Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
@@ -15,7 +15,7 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 > **Client - BMW** -
 Build and automate AWS Kubernetes Service infra for Java and Angular Application,  
 Automate Application build using Jenkins, Bitbucket.  
-Automate Kubernetes application deployment using Helm, Argo CD, Argo Rollback.  
+Automate Kubernetes application deployment using Helm, Argo CD,ArgoCD ApplicationSet, Argo Rollback, Argo HPA.  
 Implementing Cybersecurity aspects.  
 **Client - Shell India** - 
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
@@ -23,7 +23,8 @@ AKS Cluster setup using Terraform and Azure DevOps.
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
 > Lead for Application migration to AWS cloud using Terraform and Azure DevOps.  
-Lead Cloud Architect and Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git, Kubernetes & Terraform.
+Lead Cloud Architect Design and Build secure cloud infra  
+Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git, Kubernetes & Terraform.
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
 > Designed & built the AWS & Azure Cloud infra & Addressed AWS L3 issues & security concerns as well as Azure L1.  
@@ -54,7 +55,8 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 <img width="" height="14" src="./image/cert/IBM_Garage_Foundation.png"> [**IBM Garage Foundation**](https://www.credly.com/badges/32e585fc-aa8f-4113-95f4-e520f5e7d0bf/public_url){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/IBM-Agile-Explorer.png"> [**IBM Agile Explorer**](https://www.credly.com/badges/c3e6edb8-0874-4a87-8013-b8858b78f153/public_url){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/Badges_v8-07_Practitioner.png"> [**IBM Enterprise Design Thinking Practitioner**](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395/public_url){:target="_blank"} | 
-<img width="" height="14" src="./image/cert/IBM_Consulting_Way.png"> [**IBM Consulting Way**](https://www.credly.com/badges/22a02dc8-4977-4212-866a-4ad290c72438/public_url){:target="_blank"}  
+<img width="" height="14" src="./image/cert/IBM_Consulting_Way.png"> [**IBM Consulting Way**](https://www.credly.com/badges/22a02dc8-4977-4212-866a-4ad290c72438/public_url){:target="_blank"} | 
+<img width="" height="14" src="./image/cert/automotive-industry-jumpstart.1.png"> [**Automotive Industry Jumpstart**](https://www.credly.com/badges/c2c1f40c-d34c-485c-b9a8-08ff21bfda38/public_url){:target="_blank"}  
 
 ### By the book <font size="2.8">| Education</font>
 >**PGDCA [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 62.16% in 2016  
