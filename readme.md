@@ -16,7 +16,7 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 Owner for BMW customized Kubernetes Platform (4 Wheels Managed Infra setup) Integration and Automation the build and deploy.  
 Automate Java and Angular Application build and deploy using Jenkins, Bitbucket.  
 Automate Kubernetes application deployment using Helm, Argo CD,ArgoCD ApplicationSet, Argo Rollback, Argo HPA.  
-Multi Env setup for AWS Infra using Terraform.  
+AWS Infra build using Terraform (multi Env setup).  
 Implementing Cybersecurity aspects.  
 _Client - Shell India_ -  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
