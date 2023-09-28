@@ -12,12 +12,13 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 
 ### Go the extra mile <font size="2.8">| Experience</font>
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Present</font>
-> **Client - BMW** -
+> _Client - BMW_ -  
+Owner for BMW customized Kubernetes Platform (4 Wheels Managed Infra setup) Integration and Automation the build and deploy.  
 Build and automate AWS Kubernetes Service infra for Java and Angular Application,  
 Automate Application build using Jenkins, Bitbucket.  
 Automate Kubernetes application deployment using Helm, Argo CD,ArgoCD ApplicationSet, Argo Rollback, Argo HPA.  
 Implementing Cybersecurity aspects.  
-**Client - Shell India** - 
+_Client - Shell India_ -  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
 AKS Cluster setup using Terraform and Azure DevOps.
 
@@ -65,7 +66,8 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
 
 #### Win-Win <font size="2">| Honors & Awards</font>
->[TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
+>[IBM](https://www.ibm.com)  ~ Star performer award and got appreciation by client for extended production support.  
+[TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
 [WHL](http://www.wonderla.com) ~ Appreciated by the VP IT for implementing automation.  
 [3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
