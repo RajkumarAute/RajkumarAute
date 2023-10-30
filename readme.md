@@ -1,7 +1,7 @@
 <!--- <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
 Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="10" src="./image/other/email.gif"> [Rajkumar.Aute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} ~
-<img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/Bangalore){:target="_blank"}
+<img width="" height="10" src="./image/other/location.gif"> [Hyderabad](https://en.wikipedia.org/wiki/Hyderabad){:target="_blank"}
 
 > Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps & DevSecOps Engineer, Microsoft Azure & AWS Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
@@ -13,8 +13,8 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 ### Go the extra mile <font size="2.8">| Experience</font>
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Present</font>
 > _Client - BMW_ -  
-Lead Kubernetes Platform (4 Wheels Managed Infra setup) Integration and Automation the build and deploy.  
-lead cloud architect for build and deploy using Terraform (Multi Env Setup).  
+Lead for Kubernetes Platform (4 Wheels Managed Infra setup) Integration and Automation the build and deploy.  
+Lead cloud architect for build and deploy using Terraform (Multi Env Setup).  
 Automate Java and Angular Application build and deploy using Jenkins, Bitbucket.  
 Automate Kubernetes application deployment using Helm, Argo CD,ArgoCD ApplicationSet, Argo Rollback, Argo HPA.  
 Implementing Cybersecurity aspects.  
