@@ -16,7 +16,7 @@ ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, L
 Lead for Kubernetes Platform (4 Wheels Managed Infra setup) Integration and Automation the build and deploy.  
 Lead cloud architect for build and deploy using Terraform (Multi Env Setup).  
 Automate Java and Angular Application build and deploy using GitHub Actions, GitHub, Jenkins, Bitbucket.  
-Automate Kubernetes application deployment using Helm, Argo CD,ArgoCD ApplicationSet, Argo Rollback, Argo HPA.  
+Automate Kubernetes application deployment using Helm, Argo CD, ArgoCD ApplicationSet, Argo HPA.  
 Implementing Cybersecurity aspects, using SAST tool - Fortify and GitHub Advance Security and DAST tool - Contrast Security.  
 _Client - Shell India_ -  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
