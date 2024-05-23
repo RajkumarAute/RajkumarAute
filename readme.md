@@ -7,6 +7,7 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 
 ### Bag of Tricks <font size="2.8">| Skills</font>
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Argo CD, Helm, Git, Azure DevOps, GitHub Actions, Jenkins Monitoring.  
+___Cyber Security Tools___ > GitHub Advance Security, AWS Security Hub, Fortify
 ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other services.  
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
@@ -24,11 +25,11 @@ AKS Cluster setup using Terraform and Azure DevOps.
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
 > Lead for Application migration to AWS cloud using Terraform and Azure DevOps.  
-Lead Cloud Architect Design and Build secure cloud infra  
+Lead Cloud Architect Design and Build secure cloud infra by impliment and improveing Security best practices   
 Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git, Kubernetes & Terraform.
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
-> Designed & built the AWS & Azure Cloud infra & Addressed AWS L3 issues & security concerns as well as Azure L1.  
+> Designed & built the AWS & Azure Cloud infra & Addressed AWS L3 issues & security concerns using AWS Security Hub and AWS WAF. as well as Azure L1.  
 Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infra.  
 
 ### <img width="" height="14" src="./image/org/lera.png"> [_Lera Technologies_](http://www.lera.us){:target="_blank"} _<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>_ <font size="1">Sep 2019 - Apr 2020.</font>  
