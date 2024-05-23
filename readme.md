@@ -7,7 +7,7 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 
 ### Bag of Tricks <font size="2.8">| Skills</font>
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Argo CD, Helm, Git, Azure DevOps, GitHub Actions, Jenkins Monitoring.  
-___Cyber Security Tools___ > GitHub Advance Security, AWS Security Hub, Fortify
+___Cyber Security Tools___ > GitHub Advance Security, AWS Security Hub, Fortify.  
 ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other services.  
 ___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
