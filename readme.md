@@ -44,7 +44,7 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 > Handled Linux & DB servers on Cloud. ADDC, Users & Groups, File & Print Sharing.  
 Handled Windows DC Servers, Routers, Switches, Users & Groups.
 
-### Learning curve <font size="2.8">| [Certifications](https://www.credly.com/users/rajkumar-aute/badges)</font>
+### Learning curve <font size="2.8">| Certifications</font>
 > <img width="" height="14" src="./image/cert/cka.svg"> [**Certified Kubernetes Administrator (CKA)**](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"}<font size="1"> ~ Dec 2022 - Dec 2025</font>  
 <img width="" height="14" src="./image/cert/AWS_Architect_Associate.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
 <img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
