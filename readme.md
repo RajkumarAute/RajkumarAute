@@ -50,7 +50,7 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 <img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
 <img width="" height="14" src="./image/cert/redhat.png"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<!--- <font size="1"> ~ Jul 2018 - Jul 2021</font> --->  
 <img width="" height="14" src="./image/cert/DevSecOps-Essentials.png"> [**IBM DevSecOps Essentials**](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}   
-[**Many more click here**](https://www.credly.com/users/rajkumar-aute/badges){:target="_blank"}  
+[**Many more list of certifications click here**](https://www.credly.com/users/rajkumar-aute/badges){:target="_blank"}  
 
 
 ### By the book <font size="2.8">| Education</font>
