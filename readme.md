@@ -6,15 +6,15 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 > Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps & DevSecOps Engineer, Microsoft Azure & AWS Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
 ### Bag of Tricks <font size="2.8">| Skills</font>
-> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Argo CD, Helm, Git, Azure DevOps, GitHub Actions, Jenkins Monitoring.  
-___Cyber Security Tools___ > GitHub Advance Security, AWS Security Hub, Fortify.  
+> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Argo CD, Helm, Git, Azure DevOps, GitHub Actions, Jenkins, Monitoring tools.  
+___Cyber Security Tools___ > CheckOV, GitHub Advance Security, AWS Security Hub, Fortify.  
 ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other services.  
-___Other skills___ > Linux, Windows, basic bash scripting, Ansible, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
+___Other skills___ > Linux, Windows, bash scripting, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
 ### Go the extra mile <font size="2.8">| Experience</font>
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Present</font>
 > _Client - BMW_ -  
-Lead for Kubernetes Platform (4 Wheels Managed Infra setup) Integration and Automation the build and deploy.  
+Lead for Kubernetes Platform Integration and Automation the build and deploy.  
 Lead cloud architect for build and deploy using Terraform (Multi Env Setup).  
 Automate Java and Angular Application build and deploy using GitHub Actions, GitHub, Jenkins, Bitbucket.  
 Automate Kubernetes application deployment using Helm, Argo CD, ArgoCD ApplicationSet, Argo HPA.  
