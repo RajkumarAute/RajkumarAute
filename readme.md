@@ -3,10 +3,10 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} ~
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"}
 
-> Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps & DevSecOps Engineer, Microsoft Azure & AWS Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
+> Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps, GitHub Actions & DevSecOps Engineer, AWS Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
 ### Bag of Tricks <font size="2.8">| Skills</font>
-> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Argo CD, Helm, Git, Azure DevOps, GitHub Actions, Jenkins, Monitoring tools.  
+> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Argo CD, Git, Azure DevOps, GitHub Actions, Jenkins.  
 ___Cyber Security Tools___ > CheckOV, GitHub Advance Security, AWS Security Hub, Fortify.  
 ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other services.  
 ___Other skills___ > Linux, Windows, bash scripting, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
@@ -18,19 +18,19 @@ Lead for Kubernetes Platform Integration and Automation the build and deploy.
 Lead cloud architect for build and deploy using Terraform (Multi Env Setup).  
 Automate Java and Angular Application build and deploy using GitHub Actions, GitHub, Jenkins, Bitbucket.  
 Automate Kubernetes application deployment using Helm, Argo CD, ArgoCD ApplicationSet, Argo HPA.  
-Implementing Cybersecurity aspects, using SAST tool - Fortify and GitHub Advance Security and DAST tool - Contrast Security.  
+Implementing security aspects, using SAST tool - Fortify and GitHub Advance Security and DAST/IAST tool - Contrast Security.  
 _Client - Shell India_ -  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
 AKS Cluster setup using Terraform and Azure DevOps.
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
 > Lead for Application migration to AWS cloud using Terraform and Azure DevOps.  
-Lead Cloud Architect Design and Build secure cloud infra by impliment and improveing Security best practices   
+Lead Cloud Architect Design and Build secure cloud infra by implementing Security best practices   
 Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git, Kubernetes & Terraform.
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
-> Designed & built the AWS & Azure Cloud infra & Addressed AWS L3 issues & security concerns using AWS Security Hub and AWS WAF. as well as Azure L1.  
-Contributed to Built & automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infra.  
+> Designed & built the AWS & Azure Cloud infra & Addressed AWS L3 issues & security concerns using AWS Security Hub and AWS WAF. As well as Azure L1.  
+Contributed to Built & Automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infra.  
 
 ### <img width="" height="14" src="./image/org/lera.png"> [_Lera Technologies_](http://www.lera.us){:target="_blank"} _<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>_ <font size="1">Sep 2019 - Apr 2020.</font>  
 > Designed and built cloud infra and Addressed AWS L2 & Azure L1 production issues.  
@@ -60,7 +60,7 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 **[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
 
 #### Win-Win <font size="2">| Honors & Awards</font>
->[IBM](https://www.ibm.com)  ~ 3 x Star performer and 1 x Super Star awarded and got appreciation by client for extended production support.  
+>[IBM](https://www.ibm.com)  ~ 5 x Star and 1 x Super Star awarded and got appreciation by client for extended production support.  
 [TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
 [WHL](http://www.wonderla.com) ~ Appreciated by the VP IT for implementing automation.  
 [3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
