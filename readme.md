@@ -12,6 +12,10 @@ ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS
 ___Other skills___ > Linux, Windows, bash scripting, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
 ### Go the extra mile <font size="2.8">| Experience</font>
+<!---
+### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
+> _Client - JPMorgan Chase_ -  
+--->
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 > _Client - BMW_ -  
 Managing Kubernetes Platform Integration and Automation the build and deploy.  
